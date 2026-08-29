@@ -1,0 +1,3630 @@
+{
+ "_note": "Every title template found in a 247 title public archive, with EVERY matching example, not a sample. Ranked by median likes against a corpus median of 43. Read the real examples before writing.",
+ "corpus": {
+  "titles": 247,
+  "median_likes": 43,
+  "matched_by_a_template": 174,
+  "coverage_pct": 70
+ },
+ "templates": [
+  {
+   "template": "STOPPED DOING",
+   "forms": [
+    "[Odd N] things I stopped doing to [outcome]",
+    "Why I stopped [thing everyone does]",
+    "How I stopped [chasing X] and [got Y] instead"
+   ],
+   "uses": 5,
+   "median_likes": 96,
+   "vs_corpus": 53,
+   "best": 140,
+   "note": "",
+   "examples": [
+    {
+     "title": "Why I stopped trying to be “relatable”",
+     "subhead": "The performance of being a hot mess (and why I hate it)",
+     "likes": 140,
+     "date": "2025-12-11"
+    },
+    {
+     "title": "7 Things I Stopped Doing to Hit $50k/Month",
+     "subhead": "Why you are still at $0 (Unpopular Opinion)",
+     "likes": 128,
+     "date": "2025-11-29"
+    },
+    {
+     "title": "🛑 How I Stopped Chasing 100K Followers and Landed 27 Brand Deals instead",
+     "subhead": "(And Why You’re Doing It All Wrong)",
+     "likes": 96,
+     "date": "2024-10-27"
+    },
+    {
+     "title": "My 2-hour workday business hit $300K+ by April 2026. Here’s exactly what I did differently — and what I stopped doing entirely.",
+     "subhead": "I Made More Money in 4 Months Than All of Last Year. Here’s the System I Changed.",
+     "likes": 69,
+     "date": "2026-05-10"
+    },
+    {
+     "title": "Nobody Bought My Workshops. Until I Stopped Selling \"Content\" and Started Selling This.",
+     "subhead": "",
+     "likes": 65,
+     "date": "2025-12-10"
+    }
+   ]
+  },
+  {
+   "template": "TIME BOUND",
+   "forms": [
+    "[Result] in [odd N] [days/weeks/months]",
+    "How I [result] in just [N] [unit]"
+   ],
+   "uses": 9,
+   "median_likes": 91,
+   "vs_corpus": 48,
+   "best": 483,
+   "note": "",
+   "examples": [
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months (and What They Don’t Tell You About Growth)",
+     "subhead": "",
+     "likes": 483,
+     "date": "2024-11-29"
+    },
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    },
+    {
+     "title": "I Thought Substack Growth Took Years. Then I Did This in 4 Months.",
+     "subhead": "How I Hit 28K Subscribers Without Burning Out (And Actually Had Fun)",
+     "likes": 111,
+     "date": "2024-12-20"
+    },
+    {
+     "title": "She landed 17 paid subs & 500 new subscribers in 4 weeks.",
+     "subhead": "This 15 mins daily Substack strategy brings you constantly new subs, paid opportunities, and extra income.",
+     "likes": 102,
+     "date": "2025-06-16"
+    },
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months",
+     "subhead": "(and What They Don’t Tell You About Growth)",
+     "likes": 91,
+     "date": "2025-07-18"
+    },
+    {
+     "title": "0 to 70,000 Subscribers in 14 Months. The “Boring” System Behind the Growth (Steal It)",
+     "subhead": "I want to be transparent about how I built a massive audience without going viral or burning out.",
+     "likes": 55,
+     "date": "2025-12-08"
+    },
+    {
+     "title": "7 Stupid Mistakes I Made Growing to 41,000 Subscribers in 5 Months",
+     "subhead": "“You’re going to regret this.”",
+     "likes": 55,
+     "date": "2025-02-17"
+    },
+    {
+     "title": "The 3-Step System That Took Jayme from 0 to 9,000 Subscribers in 28 Days",
+     "subhead": "",
+     "likes": 28,
+     "date": "2025-10-21"
+    },
+    {
+     "title": "December Growth 📈🎁 Challenge: Your First Brand Deal in 30 Days",
+     "subhead": "Make brands want to work with you",
+     "likes": 26,
+     "date": "2024-11-28"
+    }
+   ]
+  },
+  {
+   "template": "NOBODY / UNTIL",
+   "forms": [
+    "Nobody [did the thing you wanted]. Until I [small change].",
+    "[Bad state] (Until I Did This)",
+    "Nobody [tells/admits] [the thing]"
+   ],
+   "uses": 11,
+   "median_likes": 62,
+   "vs_corpus": 19,
+   "best": 277,
+   "note": "",
+   "examples": [
+    {
+     "title": "💸 Nobody Subscribed from My Notes (Until I Did This)",
+     "subhead": "How I Turned My Notes Into a Growth Machine Without Burning Out",
+     "likes": 277,
+     "date": "2024-12-30"
+    },
+    {
+     "title": "Nobody Commented on My Posts. Until I Learned to Ask the Right Questions.",
+     "subhead": "I Thought My Readers Didn’t Care—Until I Changed This One Thing.",
+     "likes": 262,
+     "date": "2024-12-13"
+    },
+    {
+     "title": "Nobody Pays for Newsletters. Until They Do.",
+     "subhead": "New Monthly Growth Challenge: Turning Followers into Paid Subscribers",
+     "likes": 84,
+     "date": "2025-01-31"
+    },
+    {
+     "title": "The Problem Every Substack Writer Faces (But Nobody Admits)",
+     "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts",
+     "likes": 79,
+     "date": "2025-07-21"
+    },
+    {
+     "title": "Nobody Bought My Workshops. Until I Stopped Selling \"Content\" and Started Selling This.",
+     "subhead": "",
+     "likes": 65,
+     "date": "2025-12-10"
+    },
+    {
+     "title": "Nobody Makes Money From Substack Until They Fix These 3 Monetization Mistakes",
+     "subhead": "(+ 30% Off Annual Plan Ends Friday)",
+     "likes": 62,
+     "date": "2025-04-29"
+    },
+    {
+     "title": "7 Substack Promotion Strategies Nobody Talks About",
+     "subhead": "The unconventional tactics that 10X'd my reach (without paid ads or going viral)",
+     "likes": 50,
+     "date": "2025-10-27"
+    },
+    {
+     "title": "The Newsletter Lie Nobody Talks About",
+     "subhead": "",
+     "likes": 44,
+     "date": "2025-07-29"
+    },
+    {
+     "title": "I Thought Multiple Income Streams Meant More Money—Until I Realized This One Truth.",
+     "subhead": "Why Most People Fail at Multiple Income Streams",
+     "likes": 38,
+     "date": "2025-08-07"
+    },
+    {
+     "title": "💰 Nobody Subscribed to My Offer (Until I Did This)",
+     "subhead": "How I Turned My Followers into Paying Subscribers Without Feeling Salesy",
+     "likes": 38,
+     "date": "2025-02-14"
+    },
+    {
+     "title": "Nobody Upgrades From Your Posts? Use This One Sentence to Get More Subscribers",
+     "subhead": "The 60-second framework that turned my conversion rate from 2% to 47%",
+     "likes": 33,
+     "date": "2025-09-12"
+    }
+   ]
+  },
+  {
+   "template": "THE X PLAYBOOK",
+   "forms": [
+    "The [thing] playbook that [odd %] of [group] ignore",
+    "The complete [system] for [outcome]",
+    "The exact [roadmap] I used to [result]"
+   ],
+   "uses": 14,
+   "median_likes": 61,
+   "vs_corpus": 18,
+   "best": 977,
+   "note": "",
+   "examples": [
+    {
+     "title": "My 2hrs/day biz made $247,347 this year (feel free to copy the system)",
+     "subhead": "I want to be transparent about what it actually takes to hit $50k months with a newborn.",
+     "likes": 977,
+     "date": "2025-11-28"
+    },
+    {
+     "title": "[Free Course] Build a 6-figure newsletter without the burnout - your 2026 Blueprint",
+     "subhead": "Substack is not just a platform; it is a correction to the chaos of the internet. Here is how to win.",
+     "likes": 108,
+     "date": "2025-11-25"
+    },
+    {
+     "title": "The Substack Monetization Playbook that 99% of writers ignore",
+     "subhead": "How to turn readers into revenue using the features 99% of writers ignore (while working just 2 hours a day)",
+     "likes": 102,
+     "date": "2025-09-25"
+    },
+    {
+     "title": "The Full Breakdown of How I Make $50K+ Months (value packed)",
+     "subhead": "This isn’t a flex — it’s a guide. I’m showing you every income stream, the systems behind them, and how to start from zero.",
+     "likes": 94,
+     "date": "2025-11-13"
+    },
+    {
+     "title": "How I used Notes to grow to 70k subscribers in 15 mins/day (The \"Newborn\" System)",
+     "subhead": "You asked for a strategy on using Notes for growth. Here is my system for turning 140 characters into high-ticket trust.",
+     "likes": 83,
+     "date": "2025-12-02"
+    },
+    {
+     "title": "Build a $25-50K/month business working 2 hours a day (complete framework)",
+     "subhead": "Why the most profitable newsletter businesses aren't the ones working the hardest",
+     "likes": 82,
+     "date": "2025-11-24"
+    },
+    {
+     "title": "The Exact Roadmap I Used to Grow from $0 to $30K/Month—And How You Can Too",
+     "subhead": "My Complete Journey from Corporate Burnout to 6-Figure Newsletter Business (All 18 Steps)",
+     "likes": 67,
+     "date": "2025-07-24"
+    },
+    {
+     "title": "0 to 70,000 Subscribers in 14 Months. The “Boring” System Behind the Growth (Steal It)",
+     "subhead": "I want to be transparent about how I built a massive audience without going viral or burning out.",
+     "likes": 55,
+     "date": "2025-12-08"
+    },
+    {
+     "title": "Launch like a pro: My 5-Point Paid Launch Playbook",
+     "subhead": "How to escape the ad hamster wheel and get paid by people who actually value your work",
+     "likes": 53,
+     "date": "2025-06-27"
+    },
+    {
+     "title": "I Reverse-Engineered the Top 1% of Bestselling Creators—Here’s the 3-Step System They Use to Monetize",
+     "subhead": "(Why some people turn their audience into paid subscribers… while others stay stuck forever.)",
+     "likes": 42,
+     "date": "2025-02-09"
+    },
+    {
+     "title": "The best framework for creators who hate selling",
+     "subhead": "How to Monetize a Small Audience (Without Feeling Gross)",
+     "likes": 40,
+     "date": "2025-11-04"
+    },
+    {
+     "title": "Here’s my 5-step framework to land your first brand deal—fast.",
+     "subhead": "",
+     "likes": 39,
+     "date": "2024-12-21"
+    },
+    {
+     "title": "The $10K Newsletter Launch Framework",
+     "subhead": "How to Fill Your Paid Tier in 72 Hours (Even With a Small List)",
+     "likes": 33,
+     "date": "2025-05-18"
+    },
+    {
+     "title": "The 3-Step System That Took Jayme from 0 to 9,000 Subscribers in 28 Days",
+     "subhead": "",
+     "likes": 28,
+     "date": "2025-10-21"
+    }
+   ]
+  },
+  {
+   "template": "HOW I DID IT",
+   "forms": [
+    "How I [built/grew/hit] [odd result]",
+    "How I used [thing] to [outcome] in [window]"
+   ],
+   "uses": 11,
+   "median_likes": 60,
+   "vs_corpus": 17,
+   "best": 483,
+   "note": "",
+   "examples": [
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months (and What They Don’t Tell You About Growth)",
+     "subhead": "",
+     "likes": 483,
+     "date": "2024-11-29"
+    },
+    {
+     "title": "💡 How I Turned Notes Into a Subscriber Engine (and How You Can Benefit From It)",
+     "subhead": "",
+     "likes": 226,
+     "date": "2025-01-09"
+    },
+    {
+     "title": "🛑 How I Stopped Chasing 100K Followers and Landed 27 Brand Deals instead",
+     "subhead": "(And Why You’re Doing It All Wrong)",
+     "likes": 96,
+     "date": "2024-10-27"
+    },
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months",
+     "subhead": "(and What They Don’t Tell You About Growth)",
+     "likes": 91,
+     "date": "2025-07-18"
+    },
+    {
+     "title": "How I used Notes to grow to 70k subscribers in 15 mins/day (The \"Newborn\" System)",
+     "subhead": "You asked for a strategy on using Notes for growth. Here is my system for turning 140 characters into high-ticket trust.",
+     "likes": 83,
+     "date": "2025-12-02"
+    },
+    {
+     "title": "💡 How I Use Hooks to Stop the Scroll (and Turn Notes Into Subscribers)",
+     "subhead": "",
+     "likes": 60,
+     "date": "2025-01-22"
+    },
+    {
+     "title": "How I 10X’d My Growth by Focusing on These 3 Simple Strategies",
+     "subhead": "Discovery. Refinement. Network",
+     "likes": 51,
+     "date": "2025-01-28"
+    },
+    {
+     "title": "How I Make My Paid Offer a No-Brainer",
+     "subhead": "The Hidden Strategy Behind My Best-Selling Newsletter",
+     "likes": 48,
+     "date": "2025-02-01"
+    },
+    {
+     "title": "🎯 How I find brand sponsors for my newsletter",
+     "subhead": "(and how you can monetise yours too)",
+     "likes": 34,
+     "date": "2024-11-08"
+    },
+    {
+     "title": "🔴 How I Accidentally Crowdfunded My Way to Success",
+     "subhead": "The \"ugly cat\" story you didn't know you needed",
+     "likes": 28,
+     "date": "2024-10-15"
+    },
+    {
+     "title": "How I Almost Killed My Newsletter Business (And What I’m Doing About It)",
+     "subhead": "[NEW] 3 days x 2-hour newsletter masterclass",
+     "likes": 14,
+     "date": "2025-02-27"
+    }
+   ]
+  },
+  {
+   "template": "IGNORED BY MOST",
+   "forms": [
+    "The [thing] that [odd %] of [group] ignore",
+    "The problem every [group] faces (but nobody admits)",
+    "What they don't tell you about [thing]"
+   ],
+   "uses": 13,
+   "median_likes": 59,
+   "vs_corpus": 16,
+   "best": 112,
+   "note": "",
+   "examples": [
+    {
+     "title": "The Substack Growth Features That 99% of Writers Ignore",
+     "subhead": "Attract more subscribers, increase engagement, and grow faster (using tools already built into Substack that almost no one is using)",
+     "likes": 112,
+     "date": "2025-02-20"
+    },
+    {
+     "title": "The Substack Monetization Playbook that 99% of writers ignore",
+     "subhead": "How to turn readers into revenue using the features 99% of writers ignore (while working just 2 hours a day)",
+     "likes": 102,
+     "date": "2025-09-25"
+    },
+    {
+     "title": "$15,000 Last Month From My Newsletter—Here’s the Part No One Talks About",
+     "subhead": "Passive income? Not even close. Here’s the real story behind every dollar.",
+     "likes": 89,
+     "date": "2025-02-19"
+    },
+    {
+     "title": "The Problem Every Substack Writer Faces (But Nobody Admits)",
+     "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts",
+     "likes": 79,
+     "date": "2025-07-21"
+    },
+    {
+     "title": "The Real Secret to Growing Your Substack: It's Not What You Think",
+     "subhead": "How LinkedIn, Medium, and Substack Create a Self-Sustaining Revenue Machine",
+     "likes": 70,
+     "date": "2025-03-14"
+    },
+    {
+     "title": "The Substack Revenue Streams 95% of Writers Ignore (While Burning Out on Paid Subscriptions)",
+     "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts.",
+     "likes": 60,
+     "date": "2025-07-20"
+    },
+    {
+     "title": "What Nobody Tells You About Working Less",
+     "subhead": "The uncomfortable truths I discovered going from 12-hour days to 2 (and why most people fail)",
+     "likes": 59,
+     "date": "2025-09-28"
+    },
+    {
+     "title": "The hidden truth about Substack's monetization limits",
+     "subhead": "",
+     "likes": 51,
+     "date": "2025-06-23"
+    },
+    {
+     "title": "7 Substack Promotion Strategies Nobody Talks About",
+     "subhead": "The unconventional tactics that 10X'd my reach (without paid ads or going viral)",
+     "likes": 50,
+     "date": "2025-10-27"
+    },
+    {
+     "title": "Substack Secret Santa 🎁: So We Can Grow Together This Holiday Season",
+     "subhead": "Because growth isn’t just about numbers—it’s about people who cheer for you, too.",
+     "likes": 49,
+     "date": "2024-12-14"
+    },
+    {
+     "title": "The Newsletter Lie Nobody Talks About",
+     "subhead": "",
+     "likes": 44,
+     "date": "2025-07-29"
+    },
+    {
+     "title": "My best-kept secret just made someone $500 from a bathroom stall",
+     "subhead": "",
+     "likes": 26,
+     "date": "2025-09-20"
+    },
+    {
+     "title": "My Secret Tool That Took Me From 0 to 43K subscribers and 5-figure months",
+     "subhead": "Join the Waitlist now",
+     "likes": 24,
+     "date": "2025-02-24"
+    }
+   ]
+  },
+  {
+   "template": "THE RESET",
+   "forms": [
+    "If I lost it all today, here is exactly how I'd [outcome] in [window]",
+    "If you're [state], read this before it's too late"
+   ],
+   "uses": 4,
+   "median_likes": 58,
+   "vs_corpus": 15,
+   "best": 138,
+   "note": "",
+   "examples": [
+    {
+     "title": "If I lost it all today, here is exactly how I’d make $50k/month ASAP (using Substack).",
+     "subhead": "No audience, no budget, no connections, no hustle. Just a laptop, a newborn, and a system.",
+     "likes": 138,
+     "date": "2025-12-16"
+    },
+    {
+     "title": "If I had to monetize a Substack from scratch in 2025",
+     "subhead": "",
+     "likes": 68,
+     "date": "2025-04-28"
+    },
+    {
+     "title": "If I lost everything today, here's how I'd get back to $10K months (steal the plan)",
+     "subhead": "No audience, no products, no name. Just the 14 years of scar tissue and 90 days. Here’s every move.",
+     "likes": 48,
+     "date": "2026-07-16"
+    },
+    {
+     "title": "If I Had 30 Days to Grow a Paid Substack, Here’s Exactly What I’d Do",
+     "subhead": "",
+     "likes": 31,
+     "date": "2024-12-01"
+    }
+   ]
+  },
+  {
+   "template": "PERCENT PROPHECY",
+   "forms": [
+    "[Odd %] of [group] won't [outcome] (unless they do this)",
+    "Why [N in N] [group] will [bad outcome] by [year]",
+    "Most [group] will [bad outcome]"
+   ],
+   "uses": 21,
+   "median_likes": 53,
+   "vs_corpus": 10,
+   "best": 199,
+   "note": "",
+   "examples": [
+    {
+     "title": "99% of Substack Creators Won’t Make It in 2025 (Unless They Do This)",
+     "subhead": "Forget Algorithms: How to Win Big on Social Media in 2025",
+     "likes": 199,
+     "date": "2025-01-17"
+    },
+    {
+     "title": "Substack is changing — and most people will miss the shift",
+     "subhead": "If you’re still building like it’s Q2 2025, you’re already behind.",
+     "likes": 153,
+     "date": "2025-09-08"
+    },
+    {
+     "title": "Why 95% of \"Full-Time Creators\" Will Be Back at Day Jobs by 2026",
+     "subhead": "The uncomfortable truth about the creator economy collapse that nobody wants to admit—and the battle-tested strategies that separate survivors from casualties",
+     "likes": 125,
+     "date": "2025-08-03"
+    },
+    {
+     "title": "The Substack Growth Features That 99% of Writers Ignore",
+     "subhead": "Attract more subscribers, increase engagement, and grow faster (using tools already built into Substack that almost no one is using)",
+     "likes": 112,
+     "date": "2025-02-20"
+    },
+    {
+     "title": "The Substack Monetization Playbook that 99% of writers ignore",
+     "subhead": "How to turn readers into revenue using the features 99% of writers ignore (while working just 2 hours a day)",
+     "likes": 102,
+     "date": "2025-09-25"
+    },
+    {
+     "title": "The Silent Readers: Why 99% of Your Subscribers Never Comment",
+     "subhead": "(And How to Change That)",
+     "likes": 96,
+     "date": "2025-05-09"
+    },
+    {
+     "title": "Why most creators fail to monetize early—and how to fix it",
+     "subhead": "The counterintuitive approach that helped me generate $1,700 with just 600 subscribers (and how you can do it too)",
+     "likes": 68,
+     "date": "2025-04-15"
+    },
+    {
+     "title": "The 8% Rule: What Analyzing 1,500 Newsletters Taught Me About Exponential Substack Growth",
+     "subhead": "",
+     "likes": 64,
+     "date": "2025-03-21"
+    },
+    {
+     "title": "Everything you’ve been taught about audience building, content creation, and monetization is backwards — and most creators will never figure it out.",
+     "subhead": "I’m in my 40s and Just Realized I’ve Been Lied to About How to Build a Business",
+     "likes": 61,
+     "date": "2025-11-22"
+    },
+    {
+     "title": "The Substack Revenue Streams 95% of Writers Ignore (While Burning Out on Paid Subscriptions)",
+     "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts.",
+     "likes": 60,
+     "date": "2025-07-20"
+    },
+    {
+     "title": "Why Most Creators Flop on Substack Lives (Don’t Be One of Them) 🎙️",
+     "subhead": "Your Live Checklist inside",
+     "likes": 53,
+     "date": "2025-01-18"
+    },
+    {
+     "title": "Substack Tags Part 2: The Controversy, The Data, and What 99% of Writers Still Don't Understand",
+     "subhead": "Are you using Substack tags the right way? You might be surprised at what you're missing.",
+     "likes": 51,
+     "date": "2025-03-24"
+    },
+    {
+     "title": "Most People Will Never Build Something That Pays Them. Here’s Why.",
+     "subhead": "How to monetize your expertise and build your first digital product in 2026 — even with zero audience, zero budget, and zero tech skills. And no, it’s not because they’re not smart enough.",
+     "likes": 49,
+     "date": "2026-04-21"
+    },
+    {
+     "title": "the strategy that generates 86% of my revenue",
+     "subhead": "(and why I almost deleted it)",
+     "likes": 44,
+     "date": "2025-10-05"
+    },
+    {
+     "title": "The 72-Hour Newsletter Transformation: Why Most Creators Will Miss Out Tomorrow",
+     "subhead": "",
+     "likes": 42,
+     "date": "2025-05-19"
+    },
+    {
+     "title": "I Reverse-Engineered the Top 1% of Bestselling Creators—Here’s the 3-Step System They Use to Monetize",
+     "subhead": "(Why some people turn their audience into paid subscribers… while others stay stuck forever.)",
+     "likes": 42,
+     "date": "2025-02-09"
+    },
+    {
+     "title": "Day 8/30: The Notes Goldmine—Why 89% of Substack Writers Are Ignoring Their Fastest Growth Channel",
+     "subhead": "(And My 3-Note Daily System That Adds 347 Subscribers Per Week)",
+     "likes": 29,
+     "date": "2025-06-09"
+    },
+    {
+     "title": "Most people won't... but you're not most people.",
+     "subhead": "",
+     "likes": 29,
+     "date": "2025-04-26"
+    },
+    {
+     "title": "Day 6/30 - I’m doing things on Substack most people avoid.",
+     "subhead": "(Here are 6 that helped me build a 6-figure newsletter in <6 months)",
+     "likes": 28,
+     "date": "2025-06-06"
+    },
+    {
+     "title": "Most creators make offers that get ignored. Here's how I don't.",
+     "subhead": "|access now|",
+     "likes": 25,
+     "date": "2025-07-16"
+    },
+    {
+     "title": "99% of Creators Don’t Use This Feature",
+     "subhead": "And It’s Costing Them Trust",
+     "likes": 25,
+     "date": "2025-01-29"
+    }
+   ]
+  },
+  {
+   "template": "WHY + CLAIM",
+   "forms": [
+    "Why [group] [do the wrong thing]",
+    "Why [respected thing] [is broken]"
+   ],
+   "uses": 13,
+   "median_likes": 50,
+   "vs_corpus": 7,
+   "best": 140,
+   "note": "",
+   "examples": [
+    {
+     "title": "Why I stopped trying to be “relatable”",
+     "subhead": "The performance of being a hot mess (and why I hate it)",
+     "likes": 140,
+     "date": "2025-12-11"
+    },
+    {
+     "title": "Why 95% of \"Full-Time Creators\" Will Be Back at Day Jobs by 2026",
+     "subhead": "The uncomfortable truth about the creator economy collapse that nobody wants to admit—and the battle-tested strategies that separate survivors from casualties",
+     "likes": 125,
+     "date": "2025-08-03"
+    },
+    {
+     "title": "Why Nobody’s Engaging With Your Notes (And How to Fix It)",
+     "subhead": "What Nobody Tells You About Growing on Substack",
+     "likes": 84,
+     "date": "2025-01-03"
+    },
+    {
+     "title": "Why most creators fail to monetize early—and how to fix it",
+     "subhead": "The counterintuitive approach that helped me generate $1,700 with just 600 subscribers (and how you can do it too)",
+     "likes": 68,
+     "date": "2025-04-15"
+    },
+    {
+     "title": "Why Most Creators Flop on Substack Lives (Don’t Be One of Them) 🎙️",
+     "subhead": "Your Live Checklist inside",
+     "likes": 53,
+     "date": "2025-01-18"
+    },
+    {
+     "title": "Why Every Profitable Newsletter Needs These 3 Content Pillars",
+     "subhead": "Inside the strategic content mix that helped me generate $17K monthly in just 7 months (while most creators with beautiful content earn nothing)",
+     "likes": 52,
+     "date": "2025-04-17"
+    },
+    {
+     "title": "Why This Newsletter Is the Best Growth Investment You’ll Make 🔑",
+     "subhead": "The secret to turning readers into raving fans (and paying subscribers).",
+     "likes": 50,
+     "date": "2025-01-16"
+    },
+    {
+     "title": "Why Your Newsletter Isn't Making Money (And the 2-Hour Fix)",
+     "subhead": "",
+     "likes": 49,
+     "date": "2025-09-04"
+    },
+    {
+     "title": "Why I'm Ignoring Most \"Substack 2026\" Advice (And What I'm Doing Instead)",
+     "subhead": "Everyone's panicking about algorithm changes—I'm building systems that work regardless",
+     "likes": 45,
+     "date": "2025-10-24"
+    },
+    {
+     "title": "why I only work 2hrs/ day",
+     "subhead": "(and make more than when I worked 12)",
+     "likes": 37,
+     "date": "2025-10-06"
+    },
+    {
+     "title": "Why Hermès Can Charge Whatever They Want (And You're Still Broke)",
+     "subhead": "Last 24hrs to decide",
+     "likes": 36,
+     "date": "2025-07-31"
+    },
+    {
+     "title": "why fiction writers stay broke (and how to break that)",
+     "subhead": "How Money Map applies to fiction writers (Yes, Really)",
+     "likes": 26,
+     "date": "2025-10-03"
+    },
+    {
+     "title": "Why I Think Writing Alone Is Killing Your Creativity",
+     "subhead": "Let’s face it: writing alone is overrated.",
+     "likes": 10,
+     "date": "2024-09-21"
+    }
+   ]
+  },
+  {
+   "template": "SUBSCRIBER RECEIPT",
+   "forms": [
+    "[Odd N]K subscribers in [N] months",
+    "How I reached [odd N] [subscribers] in [window]"
+   ],
+   "uses": 14,
+   "median_likes": 49,
+   "vs_corpus": 6,
+   "best": 140,
+   "note": "",
+   "examples": [
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    },
+    {
+     "title": "She landed 17 paid subs & 500 new subscribers in 4 weeks.",
+     "subhead": "This 15 mins daily Substack strategy brings you constantly new subs, paid opportunities, and extra income.",
+     "likes": 102,
+     "date": "2025-06-16"
+    },
+    {
+     "title": "🛑 How I Stopped Chasing 100K Followers and Landed 27 Brand Deals instead",
+     "subhead": "(And Why You’re Doing It All Wrong)",
+     "likes": 96,
+     "date": "2024-10-27"
+    },
+    {
+     "title": "How I used Notes to grow to 70k subscribers in 15 mins/day (The \"Newborn\" System)",
+     "subhead": "You asked for a strategy on using Notes for growth. Here is my system for turning 140 characters into high-ticket trust.",
+     "likes": 83,
+     "date": "2025-12-02"
+    },
+    {
+     "title": "The Post That Brought Me 953 Subscribers (And the Quiet Work That Built It)",
+     "subhead": "Before the six figures, before the SaaS, before the Times Square billboard—there was silence. That silence was a gift.",
+     "likes": 67,
+     "date": "2025-06-14"
+    },
+    {
+     "title": "0 to 70,000 Subscribers in 14 Months. The “Boring” System Behind the Growth (Steal It)",
+     "subhead": "I want to be transparent about how I built a massive audience without going viral or burning out.",
+     "likes": 55,
+     "date": "2025-12-08"
+    },
+    {
+     "title": "7 Stupid Mistakes I Made Growing to 41,000 Subscribers in 5 Months",
+     "subhead": "“You’re going to regret this.”",
+     "likes": 55,
+     "date": "2025-02-17"
+    },
+    {
+     "title": "They Started with 47 Subscribers. Today They Make $50K/Month.",
+     "subhead": "I Found Their Secret.",
+     "likes": 44,
+     "date": "2025-08-30"
+    },
+    {
+     "title": "7 Days, 3 Viral Notes, 987 Subscribers: Why You’re Not Growing (Yet)",
+     "subhead": "Breaking down the why behind going viral so you can grow too",
+     "likes": 43,
+     "date": "2024-11-04"
+    },
+    {
+     "title": "Unpopular Opinion: You Don't Need 10K Subscribers to Make Money",
+     "subhead": "Why waiting for a \"big enough\" audience is keeping you broke",
+     "likes": 35,
+     "date": "2025-10-31"
+    },
+    {
+     "title": "44 creators told me how they got their first 100 subscribers",
+     "subhead": "(the answer broke me)",
+     "likes": 32,
+     "date": "2025-09-24"
+    },
+    {
+     "title": "The 3-Step System That Took Jayme from 0 to 9,000 Subscribers in 28 Days",
+     "subhead": "",
+     "likes": 28,
+     "date": "2025-10-21"
+    },
+    {
+     "title": "41,000 Subs, 300 Offer Critiques, 3 Airbnbs—And a Gift for You",
+     "subhead": "How to Build a Paid Offer That Converts Webinar inside",
+     "likes": 27,
+     "date": "2025-02-08"
+    },
+    {
+     "title": "My Secret Tool That Took Me From 0 to 43K subscribers and 5-figure months",
+     "subhead": "Join the Waitlist now",
+     "likes": 24,
+     "date": "2025-02-24"
+    }
+   ]
+  },
+  {
+   "template": "BRACKET CLOSER",
+   "forms": [
+    "[Complete claim] ([permission / the turn / the condition])"
+   ],
+   "uses": 53,
+   "median_likes": 48,
+   "vs_corpus": 5,
+   "best": 977,
+   "note": "A MODIFIER, not a shape. 53 of 247 titles end in one and it carries the single biggest post in the corpus. Bolt it onto any other template rather than spending a slot on it.",
+   "examples": [
+    {
+     "title": "My 2hrs/day biz made $247,347 this year (feel free to copy the system)",
+     "subhead": "I want to be transparent about what it actually takes to hit $50k months with a newborn.",
+     "likes": 977,
+     "date": "2025-11-28"
+    },
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months (and What They Don’t Tell You About Growth)",
+     "subhead": "",
+     "likes": 483,
+     "date": "2024-11-29"
+    },
+    {
+     "title": "💸 Nobody Subscribed from My Notes (Until I Did This)",
+     "subhead": "How I Turned My Notes Into a Growth Machine Without Burning Out",
+     "likes": 277,
+     "date": "2024-12-30"
+    },
+    {
+     "title": "💡 How I Turned Notes Into a Subscriber Engine (and How You Can Benefit From It)",
+     "subhead": "",
+     "likes": 226,
+     "date": "2025-01-09"
+    },
+    {
+     "title": "99% of Substack Creators Won’t Make It in 2025 (Unless They Do This)",
+     "subhead": "Forget Algorithms: How to Win Big on Social Media in 2025",
+     "likes": 199,
+     "date": "2025-01-17"
+    },
+    {
+     "title": "3 Reasons Why Your Substack Isn't Growing (Yet)",
+     "subhead": "and how to fix it",
+     "likes": 131,
+     "date": "2025-01-15"
+    },
+    {
+     "title": "I spent 6 months building a newsletter that nobody read (then this changed everything)",
+     "subhead": "",
+     "likes": 118,
+     "date": "2025-10-25"
+    },
+    {
+     "title": "The Full Breakdown of How I Make $50K+ Months (value packed)",
+     "subhead": "This isn’t a flex — it’s a guide. I’m showing you every income stream, the systems behind them, and how to start from zero.",
+     "likes": 94,
+     "date": "2025-11-13"
+    },
+    {
+     "title": "5 Proven Strategies to Monetize Your Substack (Part 2)",
+     "subhead": "and build a thriving Portfolio Career",
+     "likes": 85,
+     "date": "2024-10-03"
+    },
+    {
+     "title": "Why Nobody’s Engaging With Your Notes (And How to Fix It)",
+     "subhead": "What Nobody Tells You About Growing on Substack",
+     "likes": 84,
+     "date": "2025-01-03"
+    },
+    {
+     "title": "How I used Notes to grow to 70k subscribers in 15 mins/day (The \"Newborn\" System)",
+     "subhead": "You asked for a strategy on using Notes for growth. Here is my system for turning 140 characters into high-ticket trust.",
+     "likes": 83,
+     "date": "2025-12-02"
+    },
+    {
+     "title": "Build a $25-50K/month business working 2 hours a day (complete framework)",
+     "subhead": "Why the most profitable newsletter businesses aren't the ones working the hardest",
+     "likes": 82,
+     "date": "2025-11-24"
+    },
+    {
+     "title": "The Problem Every Substack Writer Faces (But Nobody Admits)",
+     "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts",
+     "likes": 79,
+     "date": "2025-07-21"
+    },
+    {
+     "title": "Can You Really Make a Full-Time Income on Substack? (Answer Inside)",
+     "subhead": "",
+     "likes": 72,
+     "date": "2025-05-16"
+    },
+    {
+     "title": "Stop Building One Income Stream (Do This Instead)",
+     "subhead": "",
+     "likes": 70,
+     "date": "2025-05-12"
+    },
+    {
+     "title": "The #1 Reason People Don’t Upgrade to Paid (And How to Fix It)",
+     "subhead": "(Why Free Readers Stay Free—And How to Snap Them Out of It)",
+     "likes": 70,
+     "date": "2025-02-12"
+    },
+    {
+     "title": "The Post That Brought Me 953 Subscribers (And the Quiet Work That Built It)",
+     "subhead": "Before the six figures, before the SaaS, before the Times Square billboard—there was silence. That silence was a gift.",
+     "likes": 67,
+     "date": "2025-06-14"
+    },
+    {
+     "title": "I just turned down a $500K director role (here's why)",
+     "subhead": "The uncomfortable truth about why most corporate escapees fail (and the 3-hour system that changed everything)",
+     "likes": 66,
+     "date": "2025-08-10"
+    },
+    {
+     "title": "The Substack Revenue Streams 95% of Writers Ignore (While Burning Out on Paid Subscriptions)",
+     "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts.",
+     "likes": 60,
+     "date": "2025-07-20"
+    },
+    {
+     "title": "💡 How I Use Hooks to Stop the Scroll (and Turn Notes Into Subscribers)",
+     "subhead": "",
+     "likes": 60,
+     "date": "2025-01-22"
+    },
+    {
+     "title": "I Built 5 AI Tools That Run My Business While I Sleep (Here’s Every Single One)",
+     "subhead": "Plus: how I turned Claude into my personal VA during launch week — and why I’ll never hire an assistant again.",
+     "likes": 58,
+     "date": "2026-05-06"
+    },
+    {
+     "title": "0 to 70,000 Subscribers in 14 Months. The “Boring” System Behind the Growth (Steal It)",
+     "subhead": "I want to be transparent about how I built a massive audience without going viral or burning out.",
+     "likes": 55,
+     "date": "2025-12-08"
+    },
+    {
+     "title": "The 3 Systems Every Profitable Newsletter Needs (And How to Build Them)",
+     "subhead": "Why most newsletters make €0—and what the profitable ones do differently",
+     "likes": 54,
+     "date": "2025-11-04"
+    },
+    {
+     "title": "Steal my 2-Hour workday business (step by step)",
+     "subhead": "The exact framework that took me from 12-hour days to €30K months in 2 hours",
+     "likes": 50,
+     "date": "2025-11-06"
+    },
+    {
+     "title": "Why Your Newsletter Isn't Making Money (And the 2-Hour Fix)",
+     "subhead": "",
+     "likes": 49,
+     "date": "2025-09-04"
+    },
+    {
+     "title": "If I lost everything today, here's how I'd get back to $10K months (steal the plan)",
+     "subhead": "No audience, no products, no name. Just the 14 years of scar tissue and 90 days. Here’s every move.",
+     "likes": 48,
+     "date": "2026-07-16"
+    },
+    {
+     "title": "What people actually Buy (Hint: It's not your product or service)",
+     "subhead": "tomorrow",
+     "likes": 48,
+     "date": "2025-11-17"
+    },
+    {
+     "title": "Your Audience Wants to Pay You (But You're Not Letting Them)",
+     "subhead": "we can change that today",
+     "likes": 47,
+     "date": "2025-09-11"
+    },
+    {
+     "title": "Why I'm Ignoring Most \"Substack 2026\" Advice (And What I'm Doing Instead)",
+     "subhead": "Everyone's panicking about algorithm changes—I'm building systems that work regardless",
+     "likes": 45,
+     "date": "2025-10-24"
+    },
+    {
+     "title": "23 Unusual Creator Tools I Tested (And What You Need To Know)",
+     "subhead": "Why Some Actually Matter for Your Creative Flow—and Which Ones Belong in a Digital Dumpster Fire",
+     "likes": 45,
+     "date": "2025-03-10"
+    },
+    {
+     "title": "The LinkedIn Creator Who Asked Me to Delete This Article (And Why I'm Publishing It Anyway)",
+     "subhead": "Stop Making LinkedIn Rich. Start Making YOURSELF Rich. Starting tomorrow.",
+     "likes": 43,
+     "date": "2025-05-28"
+    },
+    {
+     "title": "7 Days, 3 Viral Notes, 987 Subscribers: Why You’re Not Growing (Yet)",
+     "subhead": "Breaking down the why behind going viral so you can grow too",
+     "likes": 43,
+     "date": "2024-11-04"
+    },
+    {
+     "title": "The Number One Skill You Need To Build A Community (That Cares)",
+     "subhead": "",
+     "likes": 42,
+     "date": "2024-11-02"
+    },
+    {
+     "title": "How to NOT Name Your Substack (Unless You Want to Stay Invisible Forever)",
+     "subhead": "",
+     "likes": 41,
+     "date": "2025-02-28"
+    },
+    {
+     "title": "5 Case Studies of Creators Earning From Multiple Streams (With Real Numbers)",
+     "subhead": "How 5 Different Creators Built Profitable Newsletters Without Massive Audiences",
+     "likes": 40,
+     "date": "2025-04-14"
+    },
+    {
+     "title": "Can You Really Make a Full-Time Income on Substack? (Answer Inside)",
+     "subhead": "",
+     "likes": 39,
+     "date": "2025-07-11"
+    },
+    {
+     "title": "💰 Nobody Subscribed to My Offer (Until I Did This)",
+     "subhead": "How I Turned My Followers into Paying Subscribers Without Feeling Salesy",
+     "likes": 38,
+     "date": "2025-02-14"
+    },
+    {
+     "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+     "subhead": "A 3-Day Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+     "likes": 37,
+     "date": "2025-03-31"
+    },
+    {
+     "title": "Why Hermès Can Charge Whatever They Want (And You're Still Broke)",
+     "subhead": "Last 24hrs to decide",
+     "likes": 36,
+     "date": "2025-07-31"
+    },
+    {
+     "title": "I quit my corporate job to become a professional juggler (Part 1)",
+     "subhead": "That's the story I tell myself when I wake up every morning. It's not entirely true, but it captures the essence of my journey into the world of portfolio careers.",
+     "likes": 36,
+     "date": "2024-09-28"
+    },
+    {
+     "title": "What Just Happened in Yesterday's Workshop (mind = blown)",
+     "subhead": "237 corporate escapees, 2 hours, and the moment everything clicked",
+     "likes": 35,
+     "date": "2025-08-14"
+    },
+    {
+     "title": "The day my biggest income stream vanished (and why I wasn’t scared)",
+     "subhead": "",
+     "likes": 35,
+     "date": "2025-10-08"
+    },
+    {
+     "title": "My Worst Client Call Made Me $89K (And Why I'm Teaching It Tomorrow)",
+     "subhead": "The Zoom call where I forgot to sell anything",
+     "likes": 31,
+     "date": "2025-08-20"
+    },
+    {
+     "title": "🟡 Build a Portfolio Career Without Quitting Your Job (in Less Than 2 Hours a Day)",
+     "subhead": "The hardest part? Believing you can do it.",
+     "likes": 30,
+     "date": "2024-11-14"
+    },
+    {
+     "title": "why fiction writers stay broke (and how to break that)",
+     "subhead": "How Money Map applies to fiction writers (Yes, Really)",
+     "likes": 26,
+     "date": "2025-10-03"
+    },
+    {
+     "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+     "subhead": "A Personalised Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+     "likes": 24,
+     "date": "2025-07-15"
+    },
+    {
+     "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+     "subhead": "A 3-Day Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+     "likes": 21,
+     "date": "2025-04-27"
+    },
+    {
+     "title": "Most Newsletters Fail Because the Writers Are Boring (there, I said it)",
+     "subhead": "",
+     "likes": 20,
+     "date": "2025-02-26"
+    },
+    {
+     "title": "The $37K Mistake I Made Last Summer (And Why Your \"Content Break\" Is Costing You More Than You Think)",
+     "subhead": "The brutal truth about what happens when you disappear for eight weeks",
+     "likes": 19,
+     "date": "2025-07-08"
+    },
+    {
+     "title": "Announcing: The $5K Monetization Bootcamp (By Popular Demand!)",
+     "subhead": "",
+     "likes": 19,
+     "date": "2025-04-22"
+    },
+    {
+     "title": "How I Almost Killed My Newsletter Business (And What I’m Doing About It)",
+     "subhead": "[NEW] 3 days x 2-hour newsletter masterclass",
+     "likes": 14,
+     "date": "2025-02-27"
+    },
+    {
+     "title": "🟡 Substack FAQ Collection (With a Dash of Growth)",
+     "subhead": "What do YOU want to know as you grow on the platform?",
+     "likes": 14,
+     "date": "2024-11-25"
+    },
+    {
+     "title": "The questions keep pouring in... (+ a little surprise)",
+     "subhead": "",
+     "likes": 12,
+     "date": "2025-04-02"
+    }
+   ]
+  },
+  {
+   "template": "HOW TO",
+   "forms": [
+    "How to [outcome] without [the thing they dread]",
+    "How to turn [what they have] into [what they want]"
+   ],
+   "uses": 14,
+   "median_likes": 46,
+   "vs_corpus": 3,
+   "best": 106,
+   "note": "",
+   "examples": [
+    {
+     "title": "How to hit financial freedom so fast it’s almost unfair",
+     "subhead": "Three rules I wish someone had screamed at me when I had nothing. ⭐",
+     "likes": 106,
+     "date": "2026-05-31"
+    },
+    {
+     "title": "Why Nobody’s Engaging With Your Notes (And How to Fix It)",
+     "subhead": "What Nobody Tells You About Growing on Substack",
+     "likes": 84,
+     "date": "2025-01-03"
+    },
+    {
+     "title": "The #1 Reason People Don’t Upgrade to Paid (And How to Fix It)",
+     "subhead": "(Why Free Readers Stay Free—And How to Snap Them Out of It)",
+     "likes": 70,
+     "date": "2025-02-12"
+    },
+    {
+     "title": "Why most creators fail to monetize early—and how to fix it",
+     "subhead": "The counterintuitive approach that helped me generate $1,700 with just 600 subscribers (and how you can do it too)",
+     "likes": 68,
+     "date": "2025-04-15"
+    },
+    {
+     "title": "How building online almost made me forget how to be human",
+     "subhead": "",
+     "likes": 61,
+     "date": "2025-10-26"
+    },
+    {
+     "title": "The 3 Systems Every Profitable Newsletter Needs (And How to Build Them)",
+     "subhead": "Why most newsletters make €0—and what the profitable ones do differently",
+     "likes": 54,
+     "date": "2025-11-04"
+    },
+    {
+     "title": "🚨 Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+     "subhead": "My most comprehensive breakdown yet",
+     "likes": 47,
+     "date": "2025-05-17"
+    },
+    {
+     "title": "Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+     "subhead": "Tired of slow growth? Get the proven strategy that top creators use to accelerate their Substack growth exponentially.",
+     "likes": 46,
+     "date": "2025-02-26"
+    },
+    {
+     "title": "How to NOT Name Your Substack (Unless You Want to Stay Invisible Forever)",
+     "subhead": "",
+     "likes": 41,
+     "date": "2025-02-28"
+    },
+    {
+     "title": "How to Build a Paid Offer That Converts",
+     "subhead": "Your webinar access is here",
+     "likes": 32,
+     "date": "2025-02-03"
+    },
+    {
+     "title": "why fiction writers stay broke (and how to break that)",
+     "subhead": "How Money Map applies to fiction writers (Yes, Really)",
+     "likes": 26,
+     "date": "2025-10-03"
+    },
+    {
+     "title": "2 truths that reveal how to win at creator business in 2025",
+     "subhead": "As witnessed by me",
+     "likes": 25,
+     "date": "2025-06-21"
+    },
+    {
+     "title": "On Intentional Stress Challenge. Or, How To Become a Writer",
+     "subhead": "Progressive challenge series focused on developing the skill that is writing. Becoming a writer can offer countless benefits to the practitioner regardless of reason or genre.",
+     "likes": 19,
+     "date": "2024-11-19"
+    },
+    {
+     "title": "How to get ready for Q4 Marketing mania",
+     "subhead": "(with examples)",
+     "likes": 5,
+     "date": "2024-09-23"
+    }
+   ]
+  },
+  {
+   "template": "MONEY RECEIPT",
+   "forms": [
+    "My [N hour] business made [$odd figure] this year",
+    "[$Odd figure] from [source] in [window]"
+   ],
+   "uses": 49,
+   "median_likes": 46,
+   "vs_corpus": 3,
+   "best": 977,
+   "note": "49 uses but only +3 on the median. A dollar figure alone does not lift a title. It works when paired with TIME BOUND or STOPPED DOING.",
+   "examples": [
+    {
+     "title": "My 2hrs/day biz made $247,347 this year (feel free to copy the system)",
+     "subhead": "I want to be transparent about what it actually takes to hit $50k months with a newborn.",
+     "likes": 977,
+     "date": "2025-11-28"
+    },
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    },
+    {
+     "title": "If I lost it all today, here is exactly how I’d make $50k/month ASAP (using Substack).",
+     "subhead": "No audience, no budget, no connections, no hustle. Just a laptop, a newborn, and a system.",
+     "likes": 138,
+     "date": "2025-12-16"
+    },
+    {
+     "title": "7 Things I Stopped Doing to Hit $50k/Month",
+     "subhead": "Why you are still at $0 (Unpopular Opinion)",
+     "likes": 128,
+     "date": "2025-11-29"
+    },
+    {
+     "title": "[Free Course] Build a 6-figure newsletter without the burnout - your 2026 Blueprint",
+     "subhead": "Substack is not just a platform; it is a correction to the chaos of the internet. Here is how to win.",
+     "likes": 108,
+     "date": "2025-11-25"
+    },
+    {
+     "title": "🛑 How I Stopped Chasing 100K Followers and Landed 27 Brand Deals instead",
+     "subhead": "(And Why You’re Doing It All Wrong)",
+     "likes": 96,
+     "date": "2024-10-27"
+    },
+    {
+     "title": "The Full Breakdown of How I Make $50K+ Months (value packed)",
+     "subhead": "This isn’t a flex — it’s a guide. I’m showing you every income stream, the systems behind them, and how to start from zero.",
+     "likes": 94,
+     "date": "2025-11-13"
+    },
+    {
+     "title": "$15,000 Last Month From My Newsletter—Here’s the Part No One Talks About",
+     "subhead": "Passive income? Not even close. Here’s the real story behind every dollar.",
+     "likes": 89,
+     "date": "2025-02-19"
+    },
+    {
+     "title": "How I used Notes to grow to 70k subscribers in 15 mins/day (The \"Newborn\" System)",
+     "subhead": "You asked for a strategy on using Notes for growth. Here is my system for turning 140 characters into high-ticket trust.",
+     "likes": 83,
+     "date": "2025-12-02"
+    },
+    {
+     "title": "Build a $25-50K/month business working 2 hours a day (complete framework)",
+     "subhead": "Why the most profitable newsletter businesses aren't the ones working the hardest",
+     "likes": 82,
+     "date": "2025-11-24"
+    },
+    {
+     "title": "Can You Really Make a Full-Time Income on Substack? (Answer Inside)",
+     "subhead": "",
+     "likes": 72,
+     "date": "2025-05-16"
+    },
+    {
+     "title": "Stop Building One Income Stream (Do This Instead)",
+     "subhead": "",
+     "likes": 70,
+     "date": "2025-05-12"
+    },
+    {
+     "title": "My 2-hour workday business hit $300K+ by April 2026. Here’s exactly what I did differently — and what I stopped doing entirely.",
+     "subhead": "I Made More Money in 4 Months Than All of Last Year. Here’s the System I Changed.",
+     "likes": 69,
+     "date": "2026-05-10"
+    },
+    {
+     "title": "[redacted] in May: 50K Strong & Growing!",
+     "subhead": "",
+     "likes": 68,
+     "date": "2025-05-02"
+    },
+    {
+     "title": "The Exact Roadmap I Used to Grow from $0 to $30K/Month—And How You Can Too",
+     "subhead": "My Complete Journey from Corporate Burnout to 6-Figure Newsletter Business (All 18 Steps)",
+     "likes": 67,
+     "date": "2025-07-24"
+    },
+    {
+     "title": "I just turned down a $500K director role (here's why)",
+     "subhead": "The uncomfortable truth about why most corporate escapees fail (and the 3-hour system that changed everything)",
+     "likes": 66,
+     "date": "2025-08-10"
+    },
+    {
+     "title": "Everything you’ve been taught about audience building, content creation, and monetization is backwards — and most creators will never figure it out.",
+     "subhead": "I’m in my 40s and Just Realized I’ve Been Lied to About How to Build a Business",
+     "likes": 61,
+     "date": "2025-11-22"
+    },
+    {
+     "title": "The Substack Revenue Streams 95% of Writers Ignore (While Burning Out on Paid Subscriptions)",
+     "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts.",
+     "likes": 60,
+     "date": "2025-07-20"
+    },
+    {
+     "title": "Six Figures Is the New Broke",
+     "subhead": "The strangest financial fact of the decade: income stopped predicting freedom. Here’s the variable that replaced it.",
+     "likes": 58,
+     "date": "2026-07-12"
+    },
+    {
+     "title": "My 19-year-old nephew wants to make his first $5,000 online.",
+     "subhead": "",
+     "likes": 57,
+     "date": "2025-04-06"
+    },
+    {
+     "title": "7 Income Streams Every Digital Creator Should Consider",
+     "subhead": "Here's the uncomfortable truth most \"guru\" courses won't tell you:",
+     "likes": 56,
+     "date": "2025-04-12"
+    },
+    {
+     "title": "The Ultimate Hack to Drive Revenue",
+     "subhead": "Finding Your 2025 Growth Lever",
+     "likes": 51,
+     "date": "2024-12-16"
+    },
+    {
+     "title": "The First $1,000 Isn't Hiding In Your Audience. It's Hiding In Your Phone.",
+     "subhead": "The 10 people who already trust you are worth more than 10,000 strangers who follow you. Here's how to turn that list into a paid product this week — without needing to feel ready first.",
+     "likes": 50,
+     "date": "2026-05-26"
+    },
+    {
+     "title": "If I lost everything today, here's how I'd get back to $10K months (steal the plan)",
+     "subhead": "No audience, no products, no name. Just the 14 years of scar tissue and 90 days. Here’s every move.",
+     "likes": 48,
+     "date": "2026-07-16"
+    },
+    {
+     "title": "The $10K/Month Formula I'm Showing Tomorrow",
+     "subhead": "Why 237 corporate professionals signed up in 48 hours (and the last 5 spots)",
+     "likes": 46,
+     "date": "2025-08-12"
+    },
+    {
+     "title": "They Started with 47 Subscribers. Today They Make $50K/Month.",
+     "subhead": "I Found Their Secret.",
+     "likes": 44,
+     "date": "2025-08-30"
+    },
+    {
+     "title": "What “$62,000 a month with AI” actually looks like",
+     "subhead": "I do run most of my business on AI. It’s just nothing like the thumbnails are promising you.",
+     "likes": 44,
+     "date": "2026-06-29"
+    },
+    {
+     "title": "the strategy that generates 86% of my revenue",
+     "subhead": "(and why I almost deleted it)",
+     "likes": 44,
+     "date": "2025-10-05"
+    },
+    {
+     "title": "Your Multiple Income Streams Are Making You Poor",
+     "subhead": "An open letter to my fellow creators",
+     "likes": 43,
+     "date": "2025-08-09"
+    },
+    {
+     "title": "You're One Email Away From Your First $10K",
+     "subhead": "",
+     "likes": 41,
+     "date": "2025-09-03"
+    },
+    {
+     "title": "Can You Really Make a Full-Time Income on Substack? (Answer Inside)",
+     "subhead": "",
+     "likes": 39,
+     "date": "2025-07-11"
+    },
+    {
+     "title": "I Thought Multiple Income Streams Meant More Money—Until I Realized This One Truth.",
+     "subhead": "Why Most People Fail at Multiple Income Streams",
+     "likes": 38,
+     "date": "2025-08-07"
+    },
+    {
+     "title": "3 Insights from $551K in Coaching Sales in 2024",
+     "subhead": "The Power of Doing Less to Gain More",
+     "likes": 37,
+     "date": "2025-01-16"
+    },
+    {
+     "title": "Unpopular Opinion: You Don't Need 10K Subscribers to Make Money",
+     "subhead": "Why waiting for a \"big enough\" audience is keeping you broke",
+     "likes": 35,
+     "date": "2025-10-31"
+    },
+    {
+     "title": "The day my biggest income stream vanished (and why I wasn’t scared)",
+     "subhead": "",
+     "likes": 35,
+     "date": "2025-10-08"
+    },
+    {
+     "title": "🟡 3 key mindset shifts I made to build new income opportunities",
+     "subhead": "Here's how you can use them too",
+     "likes": 34,
+     "date": "2024-11-18"
+    },
+    {
+     "title": "The Pricing Mistake That's Costing You $5K/Month",
+     "subhead": "",
+     "likes": 33,
+     "date": "2025-09-06"
+    },
+    {
+     "title": "The $10K Newsletter Launch Framework",
+     "subhead": "How to Fill Your Paid Tier in 72 Hours (Even With a Small List)",
+     "likes": 33,
+     "date": "2025-05-18"
+    },
+    {
+     "title": "My Worst Client Call Made Me $89K (And Why I'm Teaching It Tomorrow)",
+     "subhead": "The Zoom call where I forgot to sell anything",
+     "likes": 31,
+     "date": "2025-08-20"
+    },
+    {
+     "title": "The Swiss Army Knife Newsletter That Made $0",
+     "subhead": "One Problem. One Solution. One Payday. Confusion Kills Conversions",
+     "likes": 28,
+     "date": "2025-08-08"
+    },
+    {
+     "title": "The $47 Million Problem I Just Discovered",
+     "subhead": "(And Why It Made Me Rethink Everything)",
+     "likes": 27,
+     "date": "2025-05-24"
+    },
+    {
+     "title": "My best-kept secret just made someone $500 from a bathroom stall",
+     "subhead": "",
+     "likes": 26,
+     "date": "2025-09-20"
+    },
+    {
+     "title": "5 Books that will grow your revenue faster than you think",
+     "subhead": "(and how to read them in a fraction of time)",
+     "likes": 26,
+     "date": "2024-10-30"
+    },
+    {
+     "title": "My Secret Tool That Took Me From 0 to 43K subscribers and 5-figure months",
+     "subhead": "Join the Waitlist now",
+     "likes": 24,
+     "date": "2025-02-24"
+    },
+    {
+     "title": "5 Growth Moves That Took Me From 0 to $15K a month",
+     "subhead": "Free workshop for our members and February Growth Challenge",
+     "likes": 24,
+     "date": "2025-02-18"
+    },
+    {
+     "title": "This rebrand cost Tropicana $55M",
+     "subhead": "and it failed. Until it didn't...",
+     "likes": 22,
+     "date": "2024-11-07"
+    },
+    {
+     "title": "The $37K Mistake I Made Last Summer (And Why Your \"Content Break\" Is Costing You More Than You Think)",
+     "subhead": "The brutal truth about what happens when you disappear for eight weeks",
+     "likes": 19,
+     "date": "2025-07-08"
+    },
+    {
+     "title": "Announcing: The $5K Monetization Bootcamp (By Popular Demand!)",
+     "subhead": "",
+     "likes": 19,
+     "date": "2025-04-22"
+    },
+    {
+     "title": "Day 9/30: The Revenue Recognition Reality Check—Why Your Subscriber Count Is a Vanity Metric",
+     "subhead": "(And the 24-Hour Audit That Reveals Your Real Worth)",
+     "likes": 15,
+     "date": "2025-06-09"
+    }
+   ]
+  },
+  {
+   "template": "DIRECT ADDRESS",
+   "forms": [
+    "Your [thing] is [problem]. Here's [what to do].",
+    "[Odd N] reasons your [thing] isn't [outcome]"
+   ],
+   "uses": 23,
+   "median_likes": 46,
+   "vs_corpus": 3,
+   "best": 671,
+   "note": "",
+   "examples": [
+    {
+     "title": "Can the Right Substack Tags Really Grow Your Audience 10x?",
+     "subhead": "My Secret Substack Tag Strategy That Helped Me Reach 45,000 Subscribers in 6 Months",
+     "likes": 671,
+     "date": "2025-03-12"
+    },
+    {
+     "title": "3 Reasons Why Your Substack Isn't Growing (Yet)",
+     "subhead": "and how to fix it",
+     "likes": 131,
+     "date": "2025-01-15"
+    },
+    {
+     "title": "5 Proven Strategies to Monetize Your Substack (Part 2)",
+     "subhead": "and build a thriving Portfolio Career",
+     "likes": 85,
+     "date": "2024-10-03"
+    },
+    {
+     "title": "The Real Secret to Growing Your Substack: It's Not What You Think",
+     "subhead": "How LinkedIn, Medium, and Substack Create a Self-Sustaining Revenue Machine",
+     "likes": 70,
+     "date": "2025-03-14"
+    },
+    {
+     "title": "I can’t read your Substack like a normal person anymore",
+     "subhead": "Once you see the skeleton under a viral post, you can’t unsee it. Fair warning.",
+     "likes": 61,
+     "date": "2026-08-10"
+    },
+    {
+     "title": "The First $1,000 Isn't Hiding In Your Audience. It's Hiding In Your Phone.",
+     "subhead": "The 10 people who already trust you are worth more than 10,000 strangers who follow you. Here's how to turn that list into a paid product this week — without needing to feel ready first.",
+     "likes": 50,
+     "date": "2026-05-26"
+    },
+    {
+     "title": "Why Your Newsletter Isn't Making Money (And the 2-Hour Fix)",
+     "subhead": "",
+     "likes": 49,
+     "date": "2025-09-04"
+    },
+    {
+     "title": "Your homepage needs to answer three questions in 10 seconds:",
+     "subhead": "",
+     "likes": 49,
+     "date": "2025-10-23"
+    },
+    {
+     "title": "Can Your Newsletter Pass the \"3AM Feed Test\"?",
+     "subhead": "",
+     "likes": 48,
+     "date": "2025-09-29"
+    },
+    {
+     "title": "Your Audience Wants to Pay You (But You're Not Letting Them)",
+     "subhead": "we can change that today",
+     "likes": 47,
+     "date": "2025-09-11"
+    },
+    {
+     "title": "🚨 Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+     "subhead": "My most comprehensive breakdown yet",
+     "likes": 47,
+     "date": "2025-05-17"
+    },
+    {
+     "title": "Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+     "subhead": "Tired of slow growth? Get the proven strategy that top creators use to accelerate their Substack growth exponentially.",
+     "likes": 46,
+     "date": "2025-02-26"
+    },
+    {
+     "title": "You Think Your Idea Is Too Small. Your Audience Thinks It's Perfect.",
+     "subhead": "The exact reason \"too niche\" offers sell at premium prices (and why small scale is more profitable than you think)",
+     "likes": 45,
+     "date": "2025-11-10"
+    },
+    {
+     "title": "Your Multiple Income Streams Are Making You Poor",
+     "subhead": "An open letter to my fellow creators",
+     "likes": 43,
+     "date": "2025-08-09"
+    },
+    {
+     "title": "You Don’t Need a New Skill. You Need to Dig Up the One You Buried.",
+     "subhead": "There’s a cognitive bias, measured and named, that makes experts blind to their own expertise. If you left a corporate career, it is quietly costing you money. Here’s how it works — and how to break i",
+     "likes": 42,
+     "date": "2026-05-19"
+    },
+    {
+     "title": "You're One Email Away From Your First $10K",
+     "subhead": "",
+     "likes": 41,
+     "date": "2025-09-03"
+    },
+    {
+     "title": "How to NOT Name Your Substack (Unless You Want to Stay Invisible Forever)",
+     "subhead": "",
+     "likes": 41,
+     "date": "2025-02-28"
+    },
+    {
+     "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+     "subhead": "A 3-Day Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+     "likes": 37,
+     "date": "2025-03-31"
+    },
+    {
+     "title": "Nobody Upgrades From Your Posts? Use This One Sentence to Get More Subscribers",
+     "subhead": "The 60-second framework that turned my conversion rate from 2% to 47%",
+     "likes": 33,
+     "date": "2025-09-12"
+    },
+    {
+     "title": "What Happens Next Will Change Your Newsletter Forever",
+     "subhead": "The Secret Sauce Is Now Served: Substackulous Has Left the Waitlist (And Entered Legend)",
+     "likes": 27,
+     "date": "2025-03-18"
+    },
+    {
+     "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+     "subhead": "A Personalised Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+     "likes": 24,
+     "date": "2025-07-15"
+    },
+    {
+     "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+     "subhead": "A 3-Day Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+     "likes": 21,
+     "date": "2025-04-27"
+    },
+    {
+     "title": "🟡 Your Substack “problems” always have an explanation.",
+     "subhead": "And this is how to solve them all",
+     "likes": 20,
+     "date": "2024-10-30"
+    }
+   ]
+  },
+  {
+   "template": "CLIENT / THIRD PARTY",
+   "forms": [
+    "[He/She] [got odd result] in [short window]"
+   ],
+   "uses": 3,
+   "median_likes": 44,
+   "vs_corpus": 1,
+   "best": 102,
+   "note": "",
+   "examples": [
+    {
+     "title": "She landed 17 paid subs & 500 new subscribers in 4 weeks.",
+     "subhead": "This 15 mins daily Substack strategy brings you constantly new subs, paid opportunities, and extra income.",
+     "likes": 102,
+     "date": "2025-06-16"
+    },
+    {
+     "title": "They Started with 47 Subscribers. Today They Make $50K/Month.",
+     "subhead": "I Found Their Secret.",
+     "likes": 44,
+     "date": "2025-08-30"
+    },
+    {
+     "title": "My Client Paid 5x More After I Said These 4 Words",
+     "subhead": "",
+     "likes": 36,
+     "date": "2025-09-17"
+    }
+   ]
+  },
+  {
+   "template": "CONTRARIAN FLIP",
+   "forms": [
+    "Everything you've been taught about [topic] is backwards",
+    "The truth about [thing]",
+    "[Claim] (Unpopular Opinion)"
+   ],
+   "uses": 15,
+   "median_likes": 44,
+   "vs_corpus": 1,
+   "best": 70,
+   "note": "",
+   "examples": [
+    {
+     "title": "Stop Building One Income Stream (Do This Instead)",
+     "subhead": "",
+     "likes": 70,
+     "date": "2025-05-12"
+    },
+    {
+     "title": "Everything you’ve been taught about audience building, content creation, and monetization is backwards — and most creators will never figure it out.",
+     "subhead": "I’m in my 40s and Just Realized I’ve Been Lied to About How to Build a Business",
+     "likes": 61,
+     "date": "2025-11-22"
+    },
+    {
+     "title": "Behind the scenes: A monetization funnel that actually works",
+     "subhead": "\"But how do you actually make money from a newsletter?\"",
+     "likes": 60,
+     "date": "2025-04-10"
+    },
+    {
+     "title": "💡 How I Use Hooks to Stop the Scroll (and Turn Notes Into Subscribers)",
+     "subhead": "",
+     "likes": 60,
+     "date": "2025-01-22"
+    },
+    {
+     "title": "If You Want More Buyers, Stop Creating How-To Content",
+     "subhead": "And why you want to turn your audience into loyal customers.",
+     "likes": 52,
+     "date": "2024-12-07"
+    },
+    {
+     "title": "I’ve Written 218 Newsletters. Here’s What Actually Moves the Needle.",
+     "subhead": "",
+     "likes": 49,
+     "date": "2025-08-05"
+    },
+    {
+     "title": "What people actually Buy (Hint: It's not your product or service)",
+     "subhead": "tomorrow",
+     "likes": 48,
+     "date": "2025-11-17"
+    },
+    {
+     "title": "What “$62,000 a month with AI” actually looks like",
+     "subhead": "I do run most of my business on AI. It’s just nothing like the thumbnails are promising you.",
+     "likes": 44,
+     "date": "2026-06-29"
+    },
+    {
+     "title": "Stop Treating Promotion Like It's Optional",
+     "subhead": "Why the best content in the world won't save you if nobody sees it",
+     "likes": 39,
+     "date": "2025-11-01"
+    },
+    {
+     "title": "Most Newsletters Lie—Here’s the 30-Day Growth Challenge to Prove Them Wrong",
+     "subhead": "Forget what you think you know about “growth.”",
+     "likes": 37,
+     "date": "2025-06-01"
+    },
+    {
+     "title": "Unpopular Opinion: You Don't Need 10K Subscribers to Make Money",
+     "subhead": "Why waiting for a \"big enough\" audience is keeping you broke",
+     "likes": 35,
+     "date": "2025-10-31"
+    },
+    {
+     "title": "Everyone Is Afraid AI Will Take Their Job. Wrong Fear.",
+     "subhead": "The divide forming right now is not humans versus machines. It’s renters versus owners, and you get to pick a side before the market picks for you.",
+     "likes": 31,
+     "date": "2026-07-05"
+    },
+    {
+     "title": "How do I know which content will actually make money before I write it?",
+     "subhead": "The 2-minute content audit system that predicted €84K in revenue (and saved me from wasting 200+ hours on content that would’ve flopped)",
+     "likes": 30,
+     "date": "2025-10-16"
+    },
+    {
+     "title": "Stop selling monthly",
+     "subhead": "How to unlock yearly paid plans on Substack with one email",
+     "likes": 25,
+     "date": "2025-08-28"
+    },
+    {
+     "title": "Stop Chasing Likes: The Simple Formula to Build a Social Media Presence That Actually Matters",
+     "subhead": "(This approach helped me build a community of 22K raving fans who love my brand - in under 6 months)",
+     "likes": 12,
+     "date": "2024-09-07"
+    }
+   ]
+  },
+  {
+   "template": "NUMBERED LIST",
+   "forms": [
+    "[Odd N] [things/reasons/systems] that [outcome]",
+    "[Odd N] [mistakes] that cost me [time] and [$N]"
+   ],
+   "uses": 28,
+   "median_likes": 42,
+   "vs_corpus": -1,
+   "best": 140,
+   "note": "28 uses, -1 on the median. The most overused template in the corpus and it does not outperform. Use it when the post genuinely is a list, not as a growth tactic.",
+   "examples": [
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    },
+    {
+     "title": "3 Reasons Why Your Substack Isn't Growing (Yet)",
+     "subhead": "and how to fix it",
+     "likes": 131,
+     "date": "2025-01-15"
+    },
+    {
+     "title": "7 Things I Stopped Doing to Hit $50k/Month",
+     "subhead": "Why you are still at $0 (Unpopular Opinion)",
+     "likes": 128,
+     "date": "2025-11-29"
+    },
+    {
+     "title": "5 Proven Strategies to Monetize Your Substack (Part 2)",
+     "subhead": "and build a thriving Portfolio Career",
+     "likes": 85,
+     "date": "2024-10-03"
+    },
+    {
+     "title": "7 Income Streams Every Digital Creator Should Consider",
+     "subhead": "Here's the uncomfortable truth most \"guru\" courses won't tell you:",
+     "likes": 56,
+     "date": "2025-04-12"
+    },
+    {
+     "title": "0 to 70,000 Subscribers in 14 Months. The “Boring” System Behind the Growth (Steal It)",
+     "subhead": "I want to be transparent about how I built a massive audience without going viral or burning out.",
+     "likes": 55,
+     "date": "2025-12-08"
+    },
+    {
+     "title": "7 Stupid Mistakes I Made Growing to 41,000 Subscribers in 5 Months",
+     "subhead": "“You’re going to regret this.”",
+     "likes": 55,
+     "date": "2025-02-17"
+    },
+    {
+     "title": "The 3 Systems Every Profitable Newsletter Needs (And How to Build Them)",
+     "subhead": "Why most newsletters make €0—and what the profitable ones do differently",
+     "likes": 54,
+     "date": "2025-11-04"
+    },
+    {
+     "title": "7 Substack Promotion Strategies Nobody Talks About",
+     "subhead": "The unconventional tactics that 10X'd my reach (without paid ads or going viral)",
+     "likes": 50,
+     "date": "2025-10-27"
+    },
+    {
+     "title": "🚨 Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+     "subhead": "My most comprehensive breakdown yet",
+     "likes": 47,
+     "date": "2025-05-17"
+    },
+    {
+     "title": "Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+     "subhead": "Tired of slow growth? Get the proven strategy that top creators use to accelerate their Substack growth exponentially.",
+     "likes": 46,
+     "date": "2025-02-26"
+    },
+    {
+     "title": "9 Lies You’ve Been Told About Building a Portfolio Career",
+     "subhead": "(and What to Do About It)",
+     "likes": 46,
+     "date": "2024-10-19"
+    },
+    {
+     "title": "23 Unusual Creator Tools I Tested (And What You Need To Know)",
+     "subhead": "Why Some Actually Matter for Your Creative Flow—and Which Ones Belong in a Digital Dumpster Fire",
+     "likes": 45,
+     "date": "2025-03-10"
+    },
+    {
+     "title": "7 Days, 3 Viral Notes, 987 Subscribers: Why You’re Not Growing (Yet)",
+     "subhead": "Breaking down the why behind going viral so you can grow too",
+     "likes": 43,
+     "date": "2024-11-04"
+    },
+    {
+     "title": "9 Quick & Simple Headlines That Will Make You Write Better",
+     "subhead": "And how you can apply them right away",
+     "likes": 42,
+     "date": "2024-10-16"
+    },
+    {
+     "title": "5 Case Studies of Creators Earning From Multiple Streams (With Real Numbers)",
+     "subhead": "How 5 Different Creators Built Profitable Newsletters Without Massive Audiences",
+     "likes": 40,
+     "date": "2025-04-14"
+    },
+    {
+     "title": "3 Things Keeping You Broke on Substack",
+     "subhead": "Hint: you're guessing too much and working even more",
+     "likes": 39,
+     "date": "2025-07-01"
+    },
+    {
+     "title": "21 Growth Strategies Ranked from Essential to Useless for 2025",
+     "subhead": "An honest review of what actually grows your audience (and what’s a waste of time).",
+     "likes": 37,
+     "date": "2025-03-04"
+    },
+    {
+     "title": "3 Insights from $551K in Coaching Sales in 2024",
+     "subhead": "The Power of Doing Less to Gain More",
+     "likes": 37,
+     "date": "2025-01-16"
+    },
+    {
+     "title": "🟡 3 key mindset shifts I made to build new income opportunities",
+     "subhead": "Here's how you can use them too",
+     "likes": 34,
+     "date": "2024-11-18"
+    },
+    {
+     "title": "44 creators told me how they got their first 100 subscribers",
+     "subhead": "(the answer broke me)",
+     "likes": 32,
+     "date": "2025-09-24"
+    },
+    {
+     "title": "🔴 The Top 5 Mistakes People Make Monetizing Substack",
+     "subhead": "(and How to Avoid Them)",
+     "likes": 29,
+     "date": "2024-11-21"
+    },
+    {
+     "title": "5 Books that will grow your revenue faster than you think",
+     "subhead": "(and how to read them in a fraction of time)",
+     "likes": 26,
+     "date": "2024-10-30"
+    },
+    {
+     "title": "2 truths that reveal how to win at creator business in 2025",
+     "subhead": "As witnessed by me",
+     "likes": 25,
+     "date": "2025-06-21"
+    },
+    {
+     "title": "5 Growth Moves That Took Me From 0 to $15K a month",
+     "subhead": "Free workshop for our members and February Growth Challenge",
+     "likes": 24,
+     "date": "2025-02-18"
+    },
+    {
+     "title": "🔥 7 Social Media Trends for Q4 2024",
+     "subhead": "(and how you can easily get on them)",
+     "likes": 24,
+     "date": "2024-09-17"
+    },
+    {
+     "title": "🎯 5 Ways This Challenge Will Change How You Pitch Forever",
+     "subhead": "Week 2 is ON: 50+ Creators Are Crafting Pitches",
+     "likes": 23,
+     "date": "2024-12-11"
+    },
+    {
+     "title": "🔥 10 Mental Models To Change The Way You Think",
+     "subhead": "Shift how you perceive things.",
+     "likes": 15,
+     "date": "2024-10-07"
+    }
+   ]
+  },
+  {
+   "template": "QUESTION",
+   "forms": [
+    "Can [thing] really [outcome]?"
+   ],
+   "uses": 6,
+   "median_likes": 39,
+   "vs_corpus": -4,
+   "best": 671,
+   "note": "",
+   "examples": [
+    {
+     "title": "Can the Right Substack Tags Really Grow Your Audience 10x?",
+     "subhead": "My Secret Substack Tag Strategy That Helped Me Reach 45,000 Subscribers in 6 Months",
+     "likes": 671,
+     "date": "2025-03-12"
+    },
+    {
+     "title": "The Economy Is Splitting in Two. Which Side Are You On?",
+     "subhead": "And no, this isn’t another “AI is coming for your job” article. It’s worse than that.",
+     "likes": 56,
+     "date": "2026-04-28"
+    },
+    {
+     "title": "Can Your Newsletter Pass the \"3AM Feed Test\"?",
+     "subhead": "",
+     "likes": 48,
+     "date": "2025-09-29"
+    },
+    {
+     "title": "How do I know which content will actually make money before I write it?",
+     "subhead": "The 2-minute content audit system that predicted €84K in revenue (and saved me from wasting 200+ hours on content that would’ve flopped)",
+     "likes": 30,
+     "date": "2025-10-16"
+    },
+    {
+     "title": "pretty weird, huh?",
+     "subhead": "",
+     "likes": 24,
+     "date": "2025-06-19"
+    },
+    {
+     "title": "Day 2/30 - An Architect Quit His Job to Sell E-Books—And Struck Gold?",
+     "subhead": "Pat Flynn—From Architecture School to Smart Passive Income Empire",
+     "likes": 20,
+     "date": "2025-06-03"
+    }
+   ]
+  },
+  {
+   "template": "PERSONAL CONFESSION",
+   "forms": [
+    "I [failed/quit/almost X]. Here's what changed.",
+    "My biggest [regret/mistake]"
+   ],
+   "uses": 5,
+   "median_likes": 35,
+   "vs_corpus": -8,
+   "best": 42,
+   "note": "",
+   "examples": [
+    {
+     "title": "I quit my boss. Then I became a far worse one.",
+     "subhead": "The trap almost every business owner walks straight into, and how I clawed my way out so the whole thing could finally run without me.",
+     "likes": 42,
+     "date": "2026-06-07"
+    },
+    {
+     "title": "I quit my corporate job to become a professional juggler (Part 1)",
+     "subhead": "That's the story I tell myself when I wake up every morning. It's not entirely true, but it captures the essence of my journey into the world of portfolio careers.",
+     "likes": 36,
+     "date": "2024-09-28"
+    },
+    {
+     "title": "The day my biggest income stream vanished (and why I wasn’t scared)",
+     "subhead": "",
+     "likes": 35,
+     "date": "2025-10-08"
+    },
+    {
+     "title": "How I Almost Killed My Newsletter Business (And What I’m Doing About It)",
+     "subhead": "[NEW] 3 days x 2-hour newsletter masterclass",
+     "likes": 14,
+     "date": "2025-02-27"
+    },
+    {
+     "title": "🔥 If brands had honest taglines",
+     "subhead": "(with visuals)",
+     "likes": 7,
+     "date": "2024-09-05"
+    }
+   ]
+  }
+ ],
+ "all_titles": [
+  {
+   "title": "My 2hrs/day biz made $247,347 this year (feel free to copy the system)",
+   "subhead": "I want to be transparent about what it actually takes to hit $50k months with a newborn.",
+   "likes": 977,
+   "date": "2025-11-28"
+  },
+  {
+   "title": "Can the Right Substack Tags Really Grow Your Audience 10x?",
+   "subhead": "My Secret Substack Tag Strategy That Helped Me Reach 45,000 Subscribers in 6 Months",
+   "likes": 671,
+   "date": "2025-03-12"
+  },
+  {
+   "title": "How I Became a Substack Bestseller in 3 Months (and What They Don’t Tell You About Growth)",
+   "subhead": "",
+   "likes": 483,
+   "date": "2024-11-29"
+  },
+  {
+   "title": "💸 Nobody Subscribed from My Notes (Until I Did This)",
+   "subhead": "How I Turned My Notes Into a Growth Machine Without Burning Out",
+   "likes": 277,
+   "date": "2024-12-30"
+  },
+  {
+   "title": "Nobody Commented on My Posts. Until I Learned to Ask the Right Questions.",
+   "subhead": "I Thought My Readers Didn’t Care—Until I Changed This One Thing.",
+   "likes": 262,
+   "date": "2024-12-13"
+  },
+  {
+   "title": "💡 How I Turned Notes Into a Subscriber Engine (and How You Can Benefit From It)",
+   "subhead": "",
+   "likes": 226,
+   "date": "2025-01-09"
+  },
+  {
+   "title": "99% of Substack Creators Won’t Make It in 2025 (Unless They Do This)",
+   "subhead": "Forget Algorithms: How to Win Big on Social Media in 2025",
+   "likes": 199,
+   "date": "2025-01-17"
+  },
+  {
+   "title": "If You’re in Your 20s or 30s, Read This Before It’s Too Late",
+   "subhead": "",
+   "likes": 159,
+   "date": "2025-01-21"
+  },
+  {
+   "title": "Substack is changing — and most people will miss the shift",
+   "subhead": "If you’re still building like it’s Q2 2025, you’re already behind.",
+   "likes": 153,
+   "date": "2025-09-08"
+  },
+  {
+   "title": "Why I stopped trying to be “relatable”",
+   "subhead": "The performance of being a hot mess (and why I hate it)",
+   "likes": 140,
+   "date": "2025-12-11"
+  },
+  {
+   "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+   "subhead": "(And Why Most Creators Won’t Do Them)",
+   "likes": 140,
+   "date": "2025-01-23"
+  },
+  {
+   "title": "If I lost it all today, here is exactly how I’d make $50k/month ASAP (using Substack).",
+   "subhead": "No audience, no budget, no connections, no hustle. Just a laptop, a newborn, and a system.",
+   "likes": 138,
+   "date": "2025-12-16"
+  },
+  {
+   "title": "3 Reasons Why Your Substack Isn't Growing (Yet)",
+   "subhead": "and how to fix it",
+   "likes": 131,
+   "date": "2025-01-15"
+  },
+  {
+   "title": "7 Things I Stopped Doing to Hit $50k/Month",
+   "subhead": "Why you are still at $0 (Unpopular Opinion)",
+   "likes": 128,
+   "date": "2025-11-29"
+  },
+  {
+   "title": "I’m turning 44. If you think you’re too late (or too early), this is for you.",
+   "subhead": "These 44 Things I Know For Sure.",
+   "likes": 127,
+   "date": "2026-04-06"
+  },
+  {
+   "title": "Why 95% of \"Full-Time Creators\" Will Be Back at Day Jobs by 2026",
+   "subhead": "The uncomfortable truth about the creator economy collapse that nobody wants to admit—and the battle-tested strategies that separate survivors from casualties",
+   "likes": 125,
+   "date": "2025-08-03"
+  },
+  {
+   "title": "LinkedIn vs. Substack: What I Learned from Building on Both",
+   "subhead": "And Which One is Better for Creators?",
+   "likes": 122,
+   "date": "2024-12-04"
+  },
+  {
+   "title": "I spent 6 months building a newsletter that nobody read (then this changed everything)",
+   "subhead": "",
+   "likes": 118,
+   "date": "2025-10-25"
+  },
+  {
+   "title": "The Substack Growth Features That 99% of Writers Ignore",
+   "subhead": "Attract more subscribers, increase engagement, and grow faster (using tools already built into Substack that almost no one is using)",
+   "likes": 112,
+   "date": "2025-02-20"
+  },
+  {
+   "title": "I Thought Substack Growth Took Years. Then I Did This in 4 Months.",
+   "subhead": "How I Hit 28K Subscribers Without Burning Out (And Actually Had Fun)",
+   "likes": 111,
+   "date": "2024-12-20"
+  },
+  {
+   "title": "[Free Course] Build a 6-figure newsletter without the burnout - your 2026 Blueprint",
+   "subhead": "Substack is not just a platform; it is a correction to the chaos of the internet. Here is how to win.",
+   "likes": 108,
+   "date": "2025-11-25"
+  },
+  {
+   "title": "What I Wish I Knew Before Starting on Substack",
+   "subhead": "The 7 mistakes that cost me 8 months and €50K (so you can skip them)",
+   "likes": 107,
+   "date": "2025-11-08"
+  },
+  {
+   "title": "How to hit financial freedom so fast it’s almost unfair",
+   "subhead": "Three rules I wish someone had screamed at me when I had nothing. ⭐",
+   "likes": 106,
+   "date": "2026-05-31"
+  },
+  {
+   "title": "She landed 17 paid subs & 500 new subscribers in 4 weeks.",
+   "subhead": "This 15 mins daily Substack strategy brings you constantly new subs, paid opportunities, and extra income.",
+   "likes": 102,
+   "date": "2025-06-16"
+  },
+  {
+   "title": "The Substack Monetization Playbook that 99% of writers ignore",
+   "subhead": "How to turn readers into revenue using the features 99% of writers ignore (while working just 2 hours a day)",
+   "likes": 102,
+   "date": "2025-09-25"
+  },
+  {
+   "title": "🚀January Growth Challenge: Turn Your Notes into Subscribers",
+   "subhead": "What if your notes could make you money?",
+   "likes": 99,
+   "date": "2024-12-28"
+  },
+  {
+   "title": "The Silent Readers: Why 99% of Your Subscribers Never Comment",
+   "subhead": "(And How to Change That)",
+   "likes": 96,
+   "date": "2025-05-09"
+  },
+  {
+   "title": "🛑 How I Stopped Chasing 100K Followers and Landed 27 Brand Deals instead",
+   "subhead": "(And Why You’re Doing It All Wrong)",
+   "likes": 96,
+   "date": "2024-10-27"
+  },
+  {
+   "title": "Forget Growth Hacks. THIS Is Why Newsletters Succeed.",
+   "subhead": "Newsletter growth lessons from studying top creators",
+   "likes": 95,
+   "date": "2025-05-06"
+  },
+  {
+   "title": "The Full Breakdown of How I Make $50K+ Months (value packed)",
+   "subhead": "This isn’t a flex — it’s a guide. I’m showing you every income stream, the systems behind them, and how to start from zero.",
+   "likes": 94,
+   "date": "2025-11-13"
+  },
+  {
+   "title": "How I Became a Substack Bestseller in 3 Months",
+   "subhead": "(and What They Don’t Tell You About Growth)",
+   "likes": 91,
+   "date": "2025-07-18"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 90,
+   "date": "2025-01-06"
+  },
+  {
+   "title": "$15,000 Last Month From My Newsletter—Here’s the Part No One Talks About",
+   "subhead": "Passive income? Not even close. Here’s the real story behind every dollar.",
+   "likes": 89,
+   "date": "2025-02-19"
+  },
+  {
+   "title": "5 Proven Strategies to Monetize Your Substack (Part 2)",
+   "subhead": "and build a thriving Portfolio Career",
+   "likes": 85,
+   "date": "2024-10-03"
+  },
+  {
+   "title": "Nobody Pays for Newsletters. Until They Do.",
+   "subhead": "New Monthly Growth Challenge: Turning Followers into Paid Subscribers",
+   "likes": 84,
+   "date": "2025-01-31"
+  },
+  {
+   "title": "Why Nobody’s Engaging With Your Notes (And How to Fix It)",
+   "subhead": "What Nobody Tells You About Growing on Substack",
+   "likes": 84,
+   "date": "2025-01-03"
+  },
+  {
+   "title": "How I used Notes to grow to 70k subscribers in 15 mins/day (The \"Newborn\" System)",
+   "subhead": "You asked for a strategy on using Notes for growth. Here is my system for turning 140 characters into high-ticket trust.",
+   "likes": 83,
+   "date": "2025-12-02"
+  },
+  {
+   "title": "Build a $25-50K/month business working 2 hours a day (complete framework)",
+   "subhead": "Why the most profitable newsletter businesses aren't the ones working the hardest",
+   "likes": 82,
+   "date": "2025-11-24"
+  },
+  {
+   "title": "The Problem Every Substack Writer Faces (But Nobody Admits)",
+   "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts",
+   "likes": 79,
+   "date": "2025-07-21"
+  },
+  {
+   "title": "I made a 7-day growth plan for you.",
+   "subhead": "Actually... 3 plans for 3 stages.",
+   "likes": 79,
+   "date": "2025-04-24"
+  },
+  {
+   "title": "Retirement Is the Worst Financial Product Ever Sold",
+   "subhead": "You trade your best decades to buy your worst ones, and everyone calls it responsible.",
+   "likes": 78,
+   "date": "2026-07-26"
+  },
+  {
+   "title": "Bourdain & The Art of Building Something That Lasts",
+   "subhead": "Why The Coolest Creator Would Have Dominated the Internet",
+   "likes": 77,
+   "date": "2025-07-06"
+  },
+  {
+   "title": "Coming To Substack From LinkedIn? Here's What You Need To Know.",
+   "subhead": "\"You attract what you need like a lover\" ~Gertrude Stein",
+   "likes": 77,
+   "date": "2025-05-14"
+  },
+  {
+   "title": "Move like everything is gonna work out. Because it is.",
+   "subhead": "Sunday",
+   "likes": 74,
+   "date": "2025-11-16"
+  },
+  {
+   "title": "Can You Really Make a Full-Time Income on Substack? (Answer Inside)",
+   "subhead": "",
+   "likes": 72,
+   "date": "2025-05-16"
+  },
+  {
+   "title": "Stop Building One Income Stream (Do This Instead)",
+   "subhead": "",
+   "likes": 70,
+   "date": "2025-05-12"
+  },
+  {
+   "title": "The Real Secret to Growing Your Substack: It's Not What You Think",
+   "subhead": "How LinkedIn, Medium, and Substack Create a Self-Sustaining Revenue Machine",
+   "likes": 70,
+   "date": "2025-03-14"
+  },
+  {
+   "title": "The #1 Reason People Don’t Upgrade to Paid (And How to Fix It)",
+   "subhead": "(Why Free Readers Stay Free—And How to Snap Them Out of It)",
+   "likes": 70,
+   "date": "2025-02-12"
+  },
+  {
+   "title": "My 2-hour workday business hit $300K+ by April 2026. Here’s exactly what I did differently — and what I stopped doing entirely.",
+   "subhead": "I Made More Money in 4 Months Than All of Last Year. Here’s the System I Changed.",
+   "likes": 69,
+   "date": "2026-05-10"
+  },
+  {
+   "title": "Whenever someone says, “it’s not about the money,” it’s almost always… about the money.",
+   "subhead": "You cannot build a life of freedom while apologizing for the fuel that pays for it.",
+   "likes": 68,
+   "date": "2025-12-04"
+  },
+  {
+   "title": "[redacted] in May: 50K Strong & Growing!",
+   "subhead": "",
+   "likes": 68,
+   "date": "2025-05-02"
+  },
+  {
+   "title": "If I had to monetize a Substack from scratch in 2025",
+   "subhead": "",
+   "likes": 68,
+   "date": "2025-04-28"
+  },
+  {
+   "title": "Why most creators fail to monetize early—and how to fix it",
+   "subhead": "The counterintuitive approach that helped me generate $1,700 with just 600 subscribers (and how you can do it too)",
+   "likes": 68,
+   "date": "2025-04-15"
+  },
+  {
+   "title": "The Exact Roadmap I Used to Grow from $0 to $30K/Month—And How You Can Too",
+   "subhead": "My Complete Journey from Corporate Burnout to 6-Figure Newsletter Business (All 18 Steps)",
+   "likes": 67,
+   "date": "2025-07-24"
+  },
+  {
+   "title": "The Post That Brought Me 953 Subscribers (And the Quiet Work That Built It)",
+   "subhead": "Before the six figures, before the SaaS, before the Times Square billboard—there was silence. That silence was a gift.",
+   "likes": 67,
+   "date": "2025-06-14"
+  },
+  {
+   "title": "I just turned down a $500K director role (here's why)",
+   "subhead": "The uncomfortable truth about why most corporate escapees fail (and the 3-hour system that changed everything)",
+   "likes": 66,
+   "date": "2025-08-10"
+  },
+  {
+   "title": "Nobody Bought My Workshops. Until I Stopped Selling \"Content\" and Started Selling This.",
+   "subhead": "",
+   "likes": 65,
+   "date": "2025-12-10"
+  },
+  {
+   "title": "The 8% Rule: What Analyzing 1,500 Newsletters Taught Me About Exponential Substack Growth",
+   "subhead": "",
+   "likes": 64,
+   "date": "2025-03-21"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 63,
+   "date": "2025-01-18"
+  },
+  {
+   "title": "Nobody Makes Money From Substack Until They Fix These 3 Monetization Mistakes",
+   "subhead": "(+ 30% Off Annual Plan Ends Friday)",
+   "likes": 62,
+   "date": "2025-04-29"
+  },
+  {
+   "title": "I can’t read your Substack like a normal person anymore",
+   "subhead": "Once you see the skeleton under a viral post, you can’t unsee it. Fair warning.",
+   "likes": 61,
+   "date": "2026-08-10"
+  },
+  {
+   "title": "Everything you’ve been taught about audience building, content creation, and monetization is backwards — and most creators will never figure it out.",
+   "subhead": "I’m in my 40s and Just Realized I’ve Been Lied to About How to Build a Business",
+   "likes": 61,
+   "date": "2025-11-22"
+  },
+  {
+   "title": "How building online almost made me forget how to be human",
+   "subhead": "",
+   "likes": 61,
+   "date": "2025-10-26"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 61,
+   "date": "2024-12-26"
+  },
+  {
+   "title": "The Substack Revenue Streams 95% of Writers Ignore (While Burning Out on Paid Subscriptions)",
+   "subhead": "The hidden monetization methods sitting right in your existing content that could replace your day job income—while everyone else keeps chasing subscriber counts.",
+   "likes": 60,
+   "date": "2025-07-20"
+  },
+  {
+   "title": "Behind the scenes: A monetization funnel that actually works",
+   "subhead": "\"But how do you actually make money from a newsletter?\"",
+   "likes": 60,
+   "date": "2025-04-10"
+  },
+  {
+   "title": "💡 How I Use Hooks to Stop the Scroll (and Turn Notes Into Subscribers)",
+   "subhead": "",
+   "likes": 60,
+   "date": "2025-01-22"
+  },
+  {
+   "title": "What Nobody Tells You About Working Less",
+   "subhead": "The uncomfortable truths I discovered going from 12-hour days to 2 (and why most people fail)",
+   "likes": 59,
+   "date": "2025-09-28"
+  },
+  {
+   "title": "Six Figures Is the New Broke",
+   "subhead": "The strangest financial fact of the decade: income stopped predicting freedom. Here’s the variable that replaced it.",
+   "likes": 58,
+   "date": "2026-07-12"
+  },
+  {
+   "title": "I Built 5 AI Tools That Run My Business While I Sleep (Here’s Every Single One)",
+   "subhead": "Plus: how I turned Claude into my personal VA during launch week — and why I’ll never hire an assistant again.",
+   "likes": 58,
+   "date": "2026-05-06"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 58,
+   "date": "2025-01-25"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 58,
+   "date": "2024-12-23"
+  },
+  {
+   "title": "My 19-year-old nephew wants to make his first $5,000 online.",
+   "subhead": "",
+   "likes": 57,
+   "date": "2025-04-06"
+  },
+  {
+   "title": "The Economy Is Splitting in Two. Which Side Are You On?",
+   "subhead": "And no, this isn’t another “AI is coming for your job” article. It’s worse than that.",
+   "likes": 56,
+   "date": "2026-04-28"
+  },
+  {
+   "title": "7 Income Streams Every Digital Creator Should Consider",
+   "subhead": "Here's the uncomfortable truth most \"guru\" courses won't tell you:",
+   "likes": 56,
+   "date": "2025-04-12"
+  },
+  {
+   "title": "0 to 70,000 Subscribers in 14 Months. The “Boring” System Behind the Growth (Steal It)",
+   "subhead": "I want to be transparent about how I built a massive audience without going viral or burning out.",
+   "likes": 55,
+   "date": "2025-12-08"
+  },
+  {
+   "title": "The #1 Thing I Wish I Knew Before Growing My Substack (Part 1 of 3): Foundation StrategiesMy Ultimate Substack Growth Guide (Part 1 of 3): Foundation Strategies",
+   "subhead": "From SEO optimization to community building, these next three newsletters will give you 20 tips and tricks to take your Substack to the next level.",
+   "likes": 55,
+   "date": "2025-03-27"
+  },
+  {
+   "title": "7 Stupid Mistakes I Made Growing to 41,000 Subscribers in 5 Months",
+   "subhead": "“You’re going to regret this.”",
+   "likes": 55,
+   "date": "2025-02-17"
+  },
+  {
+   "title": "The 3 Systems Every Profitable Newsletter Needs (And How to Build Them)",
+   "subhead": "Why most newsletters make €0—and what the profitable ones do differently",
+   "likes": 54,
+   "date": "2025-11-04"
+  },
+  {
+   "title": "From Burnout to Purpose: Rebuilding Life After Success Nearly Killed Me",
+   "subhead": "I collapsed in a five-star hotel room in 2017, and nobody cared.",
+   "likes": 53,
+   "date": "2025-07-23"
+  },
+  {
+   "title": "Launch like a pro: My 5-Point Paid Launch Playbook",
+   "subhead": "How to escape the ad hamster wheel and get paid by people who actually value your work",
+   "likes": 53,
+   "date": "2025-06-27"
+  },
+  {
+   "title": "The Hard Truth About Substack Growth",
+   "subhead": "Why Most Creators Are Wasting Their Time",
+   "likes": 53,
+   "date": "2025-03-19"
+  },
+  {
+   "title": "Why Most Creators Flop on Substack Lives (Don’t Be One of Them) 🎙️",
+   "subhead": "Your Live Checklist inside",
+   "likes": 53,
+   "date": "2025-01-18"
+  },
+  {
+   "title": "Why Every Profitable Newsletter Needs These 3 Content Pillars",
+   "subhead": "Inside the strategic content mix that helped me generate $17K monthly in just 7 months (while most creators with beautiful content earn nothing)",
+   "likes": 52,
+   "date": "2025-04-17"
+  },
+  {
+   "title": "[redacted] in April: All You Need to Know",
+   "subhead": "",
+   "likes": 52,
+   "date": "2025-04-11"
+  },
+  {
+   "title": "If You Want More Buyers, Stop Creating How-To Content",
+   "subhead": "And why you want to turn your audience into loyal customers.",
+   "likes": 52,
+   "date": "2024-12-07"
+  },
+  {
+   "title": "The hidden truth about Substack's monetization limits",
+   "subhead": "",
+   "likes": 51,
+   "date": "2025-06-23"
+  },
+  {
+   "title": "Substack Tags Part 2: The Controversy, The Data, and What 99% of Writers Still Don't Understand",
+   "subhead": "Are you using Substack tags the right way? You might be surprised at what you're missing.",
+   "likes": 51,
+   "date": "2025-03-24"
+  },
+  {
+   "title": "How I 10X’d My Growth by Focusing on These 3 Simple Strategies",
+   "subhead": "Discovery. Refinement. Network",
+   "likes": 51,
+   "date": "2025-01-28"
+  },
+  {
+   "title": "The Ultimate Hack to Drive Revenue",
+   "subhead": "Finding Your 2025 Growth Lever",
+   "likes": 51,
+   "date": "2024-12-16"
+  },
+  {
+   "title": "The First $1,000 Isn't Hiding In Your Audience. It's Hiding In Your Phone.",
+   "subhead": "The 10 people who already trust you are worth more than 10,000 strangers who follow you. Here's how to turn that list into a paid product this week — without needing to feel ready first.",
+   "likes": 50,
+   "date": "2026-05-26"
+  },
+  {
+   "title": "Steal my 2-Hour workday business (step by step)",
+   "subhead": "The exact framework that took me from 12-hour days to €30K months in 2 hours",
+   "likes": 50,
+   "date": "2025-11-06"
+  },
+  {
+   "title": "7 Substack Promotion Strategies Nobody Talks About",
+   "subhead": "The unconventional tactics that 10X'd my reach (without paid ads or going viral)",
+   "likes": 50,
+   "date": "2025-10-27"
+  },
+  {
+   "title": "Why This Newsletter Is the Best Growth Investment You’ll Make 🔑",
+   "subhead": "The secret to turning readers into raving fans (and paying subscribers).",
+   "likes": 50,
+   "date": "2025-01-16"
+  },
+  {
+   "title": "Why Your Newsletter Isn't Making Money (And the 2-Hour Fix)",
+   "subhead": "",
+   "likes": 49,
+   "date": "2025-09-04"
+  },
+  {
+   "title": "I’ve Written 218 Newsletters. Here’s What Actually Moves the Needle.",
+   "subhead": "",
+   "likes": 49,
+   "date": "2025-08-05"
+  },
+  {
+   "title": "Most People Will Never Build Something That Pays Them. Here’s Why.",
+   "subhead": "How to monetize your expertise and build your first digital product in 2026 — even with zero audience, zero budget, and zero tech skills. And no, it’s not because they’re not smart enough.",
+   "likes": 49,
+   "date": "2026-04-21"
+  },
+  {
+   "title": "Your homepage needs to answer three questions in 10 seconds:",
+   "subhead": "",
+   "likes": 49,
+   "date": "2025-10-23"
+  },
+  {
+   "title": "Substack Secret Santa 🎁: So We Can Grow Together This Holiday Season",
+   "subhead": "Because growth isn’t just about numbers—it’s about people who cheer for you, too.",
+   "likes": 49,
+   "date": "2024-12-14"
+  },
+  {
+   "title": "If I lost everything today, here's how I'd get back to $10K months (steal the plan)",
+   "subhead": "No audience, no products, no name. Just the 14 years of scar tissue and 90 days. Here’s every move.",
+   "likes": 48,
+   "date": "2026-07-16"
+  },
+  {
+   "title": "What people actually Buy (Hint: It's not your product or service)",
+   "subhead": "tomorrow",
+   "likes": 48,
+   "date": "2025-11-17"
+  },
+  {
+   "title": "Can Your Newsletter Pass the \"3AM Feed Test\"?",
+   "subhead": "",
+   "likes": 48,
+   "date": "2025-09-29"
+  },
+  {
+   "title": "How I Make My Paid Offer a No-Brainer",
+   "subhead": "The Hidden Strategy Behind My Best-Selling Newsletter",
+   "likes": 48,
+   "date": "2025-02-01"
+  },
+  {
+   "title": "Your Audience Wants to Pay You (But You're Not Letting Them)",
+   "subhead": "we can change that today",
+   "likes": 47,
+   "date": "2025-09-11"
+  },
+  {
+   "title": "the emails I never delete",
+   "subhead": "I sorted 90 subject lines from the best in my inbox. What I found will change how you title everything.",
+   "likes": 47,
+   "date": "2026-07-31"
+  },
+  {
+   "title": "🚨 Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+   "subhead": "My most comprehensive breakdown yet",
+   "likes": 47,
+   "date": "2025-05-17"
+  },
+  {
+   "title": "The $10K/Month Formula I'm Showing Tomorrow",
+   "subhead": "Why 237 corporate professionals signed up in 48 hours (and the last 5 spots)",
+   "likes": 46,
+   "date": "2025-08-12"
+  },
+  {
+   "title": "The Middle Class Isn’t Dying. It’s Being Repriced.",
+   "subhead": "The dream was never a lifestyle. It was a deal. And the other side quietly changed the terms.",
+   "likes": 46,
+   "date": "2026-07-19"
+  },
+  {
+   "title": "If we're lucky, we get 80 summers. This is Eva's first.",
+   "subhead": "(and the five things I changed after I finally did it)",
+   "likes": 46,
+   "date": "2026-07-07"
+  },
+  {
+   "title": "Top 5 Mistakes Killing Your Substack Growth (And How to Fix Them Today) 🚨",
+   "subhead": "Tired of slow growth? Get the proven strategy that top creators use to accelerate their Substack growth exponentially.",
+   "likes": 46,
+   "date": "2025-02-26"
+  },
+  {
+   "title": "Do THIS to Land More Clients -> free workshop inside",
+   "subhead": "(and Cut Your Workload in Half)",
+   "likes": 46,
+   "date": "2024-10-21"
+  },
+  {
+   "title": "9 Lies You’ve Been Told About Building a Portfolio Career",
+   "subhead": "(and What to Do About It)",
+   "likes": 46,
+   "date": "2024-10-19"
+  },
+  {
+   "title": "The Cartier Waitlist Method for Creators",
+   "subhead": "How a $40K bracelet strategy can transform your creator business",
+   "likes": 45,
+   "date": "2025-07-28"
+  },
+  {
+   "title": "You Think Your Idea Is Too Small. Your Audience Thinks It's Perfect.",
+   "subhead": "The exact reason \"too niche\" offers sell at premium prices (and why small scale is more profitable than you think)",
+   "likes": 45,
+   "date": "2025-11-10"
+  },
+  {
+   "title": "Why I'm Ignoring Most \"Substack 2026\" Advice (And What I'm Doing Instead)",
+   "subhead": "Everyone's panicking about algorithm changes—I'm building systems that work regardless",
+   "likes": 45,
+   "date": "2025-10-24"
+  },
+  {
+   "title": "I Analyzed 50 LinkedIn Creators Who Jumped to Substack.",
+   "subhead": "Here's What 47 of Them Got Wrong.",
+   "likes": 45,
+   "date": "2025-05-24"
+  },
+  {
+   "title": "23 Unusual Creator Tools I Tested (And What You Need To Know)",
+   "subhead": "Why Some Actually Matter for Your Creative Flow—and Which Ones Belong in a Digital Dumpster Fire",
+   "likes": 45,
+   "date": "2025-03-10"
+  },
+  {
+   "title": "They Started with 47 Subscribers. Today They Make $50K/Month.",
+   "subhead": "I Found Their Secret.",
+   "likes": 44,
+   "date": "2025-08-30"
+  },
+  {
+   "title": "The Newsletter Lie Nobody Talks About",
+   "subhead": "",
+   "likes": 44,
+   "date": "2025-07-29"
+  },
+  {
+   "title": "What “$62,000 a month with AI” actually looks like",
+   "subhead": "I do run most of my business on AI. It’s just nothing like the thumbnails are promising you.",
+   "likes": 44,
+   "date": "2026-06-29"
+  },
+  {
+   "title": "the strategy that generates 86% of my revenue",
+   "subhead": "(and why I almost deleted it)",
+   "likes": 44,
+   "date": "2025-10-05"
+  },
+  {
+   "title": "Your Multiple Income Streams Are Making You Poor",
+   "subhead": "An open letter to my fellow creators",
+   "likes": 43,
+   "date": "2025-08-09"
+  },
+  {
+   "title": "The LinkedIn Creator Who Asked Me to Delete This Article (And Why I'm Publishing It Anyway)",
+   "subhead": "Stop Making LinkedIn Rich. Start Making YOURSELF Rich. Starting tomorrow.",
+   "likes": 43,
+   "date": "2025-05-28"
+  },
+  {
+   "title": "7 Days, 3 Viral Notes, 987 Subscribers: Why You’re Not Growing (Yet)",
+   "subhead": "Breaking down the why behind going viral so you can grow too",
+   "likes": 43,
+   "date": "2024-11-04"
+  },
+  {
+   "title": "Good writers don’t get paid. Storytellers do.",
+   "subhead": "A slightly mean love letter to everyone with beautiful sentences and an empty Stripe account",
+   "likes": 42,
+   "date": "2026-06-16"
+  },
+  {
+   "title": "I quit my boss. Then I became a far worse one.",
+   "subhead": "The trap almost every business owner walks straight into, and how I clawed my way out so the whole thing could finally run without me.",
+   "likes": 42,
+   "date": "2026-06-07"
+  },
+  {
+   "title": "You Don’t Need a New Skill. You Need to Dig Up the One You Buried.",
+   "subhead": "There’s a cognitive bias, measured and named, that makes experts blind to their own expertise. If you left a corporate career, it is quietly costing you money. Here’s how it works — and how to break i",
+   "likes": 42,
+   "date": "2026-05-19"
+  },
+  {
+   "title": "2025: The Year of “What Didn’t Happen”",
+   "subhead": "I turned down a $400k exit, drove 40,000km pregnant, and failed to build my dream home. And honestly? It was the best year of my life.",
+   "likes": 42,
+   "date": "2026-01-03"
+  },
+  {
+   "title": "The 72-Hour Newsletter Transformation: Why Most Creators Will Miss Out Tomorrow",
+   "subhead": "",
+   "likes": 42,
+   "date": "2025-05-19"
+  },
+  {
+   "title": "I Reverse-Engineered the Top 1% of Bestselling Creators—Here’s the 3-Step System They Use to Monetize",
+   "subhead": "(Why some people turn their audience into paid subscribers… while others stay stuck forever.)",
+   "likes": 42,
+   "date": "2025-02-09"
+  },
+  {
+   "title": "The Number One Skill You Need To Build A Community (That Cares)",
+   "subhead": "",
+   "likes": 42,
+   "date": "2024-11-02"
+  },
+  {
+   "title": "9 Quick & Simple Headlines That Will Make You Write Better",
+   "subhead": "And how you can apply them right away",
+   "likes": 42,
+   "date": "2024-10-16"
+  },
+  {
+   "title": "You're One Email Away From Your First $10K",
+   "subhead": "",
+   "likes": 41,
+   "date": "2025-09-03"
+  },
+  {
+   "title": "Day 12/30: Why Your \"Passion Project\" Is Keeping You Broke",
+   "subhead": "(And How to Fix It Without Selling Your Soul)",
+   "likes": 41,
+   "date": "2025-06-12"
+  },
+  {
+   "title": "The Psychology of Making Money",
+   "subhead": "",
+   "likes": 41,
+   "date": "2026-06-10"
+  },
+  {
+   "title": "the productivity myth nobody questions",
+   "subhead": "",
+   "likes": 41,
+   "date": "2025-10-11"
+  },
+  {
+   "title": "How to NOT Name Your Substack (Unless You Want to Stay Invisible Forever)",
+   "subhead": "",
+   "likes": 41,
+   "date": "2025-02-28"
+  },
+  {
+   "title": "The Dangerous Trap of 'Doing Fine'",
+   "subhead": "",
+   "likes": 41,
+   "date": "2025-02-15"
+  },
+  {
+   "title": "The best framework for creators who hate selling",
+   "subhead": "How to Monetize a Small Audience (Without Feeling Gross)",
+   "likes": 40,
+   "date": "2025-11-04"
+  },
+  {
+   "title": "5 Case Studies of Creators Earning From Multiple Streams (With Real Numbers)",
+   "subhead": "How 5 Different Creators Built Profitable Newsletters Without Massive Audiences",
+   "likes": 40,
+   "date": "2025-04-14"
+  },
+  {
+   "title": "Can You Really Make a Full-Time Income on Substack? (Answer Inside)",
+   "subhead": "",
+   "likes": 39,
+   "date": "2025-07-11"
+  },
+  {
+   "title": "3 Things Keeping You Broke on Substack",
+   "subhead": "Hint: you're guessing too much and working even more",
+   "likes": 39,
+   "date": "2025-07-01"
+  },
+  {
+   "title": "Stop Treating Promotion Like It's Optional",
+   "subhead": "Why the best content in the world won't save you if nobody sees it",
+   "likes": 39,
+   "date": "2025-11-01"
+  },
+  {
+   "title": "Here’s my 5-step framework to land your first brand deal—fast.",
+   "subhead": "",
+   "likes": 39,
+   "date": "2024-12-21"
+  },
+  {
+   "title": "I Thought Multiple Income Streams Meant More Money—Until I Realized This One Truth.",
+   "subhead": "Why Most People Fail at Multiple Income Streams",
+   "likes": 38,
+   "date": "2025-08-07"
+  },
+  {
+   "title": "I did the math on motherhood. The ROI broke my spreadsheet.",
+   "subhead": "",
+   "likes": 38,
+   "date": "2025-09-21"
+  },
+  {
+   "title": "This Could Be You",
+   "subhead": "But you're still writing long posts nobody reads while Notes are making me $30K/month",
+   "likes": 38,
+   "date": "2025-09-14"
+  },
+  {
+   "title": "My Top 3 Substack Monetisation Lessons After 1000+ Paid Subscribers",
+   "subhead": "New Free workshop for paid members",
+   "likes": 38,
+   "date": "2025-04-23"
+  },
+  {
+   "title": "💰 Nobody Subscribed to My Offer (Until I Did This)",
+   "subhead": "How I Turned My Followers into Paying Subscribers Without Feeling Salesy",
+   "likes": 38,
+   "date": "2025-02-14"
+  },
+  {
+   "title": "Lemon and Water",
+   "subhead": "What moving to Greece with a baby and two dogs taught me about monetizing as a creator: stop fighting what doesn't work, leverage what does.",
+   "likes": 37,
+   "date": "2026-06-23"
+  },
+  {
+   "title": "why I only work 2hrs/ day",
+   "subhead": "(and make more than when I worked 12)",
+   "likes": 37,
+   "date": "2025-10-06"
+  },
+  {
+   "title": "Most Newsletters Lie—Here’s the 30-Day Growth Challenge to Prove Them Wrong",
+   "subhead": "Forget what you think you know about “growth.”",
+   "likes": 37,
+   "date": "2025-06-01"
+  },
+  {
+   "title": "I Got Called Cringe—and Then This Happened.",
+   "subhead": "This Post Was Once a Joke. Now It’s a Case Study.",
+   "likes": 37,
+   "date": "2025-04-04"
+  },
+  {
+   "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+   "subhead": "A 3-Day Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+   "likes": 37,
+   "date": "2025-03-31"
+  },
+  {
+   "title": "21 Growth Strategies Ranked from Essential to Useless for 2025",
+   "subhead": "An honest review of what actually grows your audience (and what’s a waste of time).",
+   "likes": 37,
+   "date": "2025-03-04"
+  },
+  {
+   "title": "3 Insights from $551K in Coaching Sales in 2024",
+   "subhead": "The Power of Doing Less to Gain More",
+   "likes": 37,
+   "date": "2025-01-16"
+  },
+  {
+   "title": "Why Hermès Can Charge Whatever They Want (And You're Still Broke)",
+   "subhead": "Last 24hrs to decide",
+   "likes": 36,
+   "date": "2025-07-31"
+  },
+  {
+   "title": "My Client Paid 5x More After I Said These 4 Words",
+   "subhead": "",
+   "likes": 36,
+   "date": "2025-09-17"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 36,
+   "date": "2024-12-19"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 36,
+   "date": "2024-12-08"
+  },
+  {
+   "title": "I quit my corporate job to become a professional juggler (Part 1)",
+   "subhead": "That's the story I tell myself when I wake up every morning. It's not entirely true, but it captures the essence of my journey into the world of portfolio careers.",
+   "likes": 36,
+   "date": "2024-09-28"
+  },
+  {
+   "title": "What Just Happened in Yesterday's Workshop (mind = blown)",
+   "subhead": "237 corporate escapees, 2 hours, and the moment everything clicked",
+   "likes": 35,
+   "date": "2025-08-14"
+  },
+  {
+   "title": "Day 7/30: The Comment Paradox—Why Your Best Content Gets the Least Engagement",
+   "subhead": "(And How to Fix It Without Begging)",
+   "likes": 35,
+   "date": "2025-06-07"
+  },
+  {
+   "title": "Unpopular Opinion: You Don't Need 10K Subscribers to Make Money",
+   "subhead": "Why waiting for a \"big enough\" audience is keeping you broke",
+   "likes": 35,
+   "date": "2025-10-31"
+  },
+  {
+   "title": "\"If I only had 2 hours a day to work, what would I focus on?\"",
+   "subhead": "The Revenue Strategy that 99% of creators still ignore",
+   "likes": 35,
+   "date": "2025-10-14"
+  },
+  {
+   "title": "The day my biggest income stream vanished (and why I wasn’t scared)",
+   "subhead": "",
+   "likes": 35,
+   "date": "2025-10-08"
+  },
+  {
+   "title": "🟡 3 key mindset shifts I made to build new income opportunities",
+   "subhead": "Here's how you can use them too",
+   "likes": 34,
+   "date": "2024-11-18"
+  },
+  {
+   "title": "🎯 How I find brand sponsors for my newsletter",
+   "subhead": "(and how you can monetise yours too)",
+   "likes": 34,
+   "date": "2024-11-08"
+  },
+  {
+   "title": "The Pricing Mistake That's Costing You $5K/Month",
+   "subhead": "",
+   "likes": 33,
+   "date": "2025-09-06"
+  },
+  {
+   "title": "Nobody Upgrades From Your Posts? Use This One Sentence to Get More Subscribers",
+   "subhead": "The 60-second framework that turned my conversion rate from 2% to 47%",
+   "likes": 33,
+   "date": "2025-09-12"
+  },
+  {
+   "title": "The $10K Newsletter Launch Framework",
+   "subhead": "How to Fill Your Paid Tier in 72 Hours (Even With a Small List)",
+   "likes": 33,
+   "date": "2025-05-18"
+  },
+  {
+   "title": "It Got 17 Likes. It Also Got Me Here.",
+   "subhead": "",
+   "likes": 32,
+   "date": "2026-07-04"
+  },
+  {
+   "title": "44 creators told me how they got their first 100 subscribers",
+   "subhead": "(the answer broke me)",
+   "likes": 32,
+   "date": "2025-09-24"
+  },
+  {
+   "title": "How to Build a Paid Offer That Converts",
+   "subhead": "Your webinar access is here",
+   "likes": 32,
+   "date": "2025-02-03"
+  },
+  {
+   "title": "🍅 Ketchup got Heinz in trouble. Again.",
+   "subhead": "This time, it wasn’t just a bad campaign. It was two.",
+   "likes": 32,
+   "date": "2024-10-10"
+  },
+  {
+   "title": "To niche or not to niche? That is the question",
+   "subhead": "Why I'm making $30K/month being \"too broad\"",
+   "likes": 31,
+   "date": "2025-08-26"
+  },
+  {
+   "title": "My Worst Client Call Made Me $89K (And Why I'm Teaching It Tomorrow)",
+   "subhead": "The Zoom call where I forgot to sell anything",
+   "likes": 31,
+   "date": "2025-08-20"
+  },
+  {
+   "title": "Everyone Is Afraid AI Will Take Their Job. Wrong Fear.",
+   "subhead": "The divide forming right now is not humans versus machines. It’s renters versus owners, and you get to pick a side before the market picks for you.",
+   "likes": 31,
+   "date": "2026-07-05"
+  },
+  {
+   "title": "If I Had 30 Days to Grow a Paid Substack, Here’s Exactly What I’d Do",
+   "subhead": "",
+   "likes": 31,
+   "date": "2024-12-01"
+  },
+  {
+   "title": "This is not how you sell. It's how you get thanked for saying no",
+   "subhead": "Last live session of 2025 runs on August 21-22nd",
+   "likes": 30,
+   "date": "2025-08-19"
+  },
+  {
+   "title": "How do I know which content will actually make money before I write it?",
+   "subhead": "The 2-minute content audit system that predicted €84K in revenue (and saved me from wasting 200+ hours on content that would’ve flopped)",
+   "likes": 30,
+   "date": "2025-10-16"
+  },
+  {
+   "title": "I Spent 6 Months Building Something That Shouldn't Exist",
+   "subhead": "And now you can try it for free",
+   "likes": 30,
+   "date": "2025-09-18"
+  },
+  {
+   "title": "🟡 Build a Portfolio Career Without Quitting Your Job (in Less Than 2 Hours a Day)",
+   "subhead": "The hardest part? Believing you can do it.",
+   "likes": 30,
+   "date": "2024-11-14"
+  },
+  {
+   "title": "Day 8/30: The Notes Goldmine—Why 89% of Substack Writers Are Ignoring Their Fastest Growth Channel",
+   "subhead": "(And My 3-Note Daily System That Adds 347 Subscribers Per Week)",
+   "likes": 29,
+   "date": "2025-06-09"
+  },
+  {
+   "title": "Most people won't... but you're not most people.",
+   "subhead": "",
+   "likes": 29,
+   "date": "2025-04-26"
+  },
+  {
+   "title": "🔴 The Top 5 Mistakes People Make Monetizing Substack",
+   "subhead": "(and How to Avoid Them)",
+   "likes": 29,
+   "date": "2024-11-21"
+  },
+  {
+   "title": "The Swiss Army Knife Newsletter That Made $0",
+   "subhead": "One Problem. One Solution. One Payday. Confusion Kills Conversions",
+   "likes": 28,
+   "date": "2025-08-08"
+  },
+  {
+   "title": "Day 6/30 - I’m doing things on Substack most people avoid.",
+   "subhead": "(Here are 6 that helped me build a 6-figure newsletter in <6 months)",
+   "likes": 28,
+   "date": "2025-06-06"
+  },
+  {
+   "title": "The 3-Step System That Took Jayme from 0 to 9,000 Subscribers in 28 Days",
+   "subhead": "",
+   "likes": 28,
+   "date": "2025-10-21"
+  },
+  {
+   "title": "🔴 How I Accidentally Crowdfunded My Way to Success",
+   "subhead": "The \"ugly cat\" story you didn't know you needed",
+   "likes": 28,
+   "date": "2024-10-15"
+  },
+  {
+   "title": "The $47 Million Problem I Just Discovered",
+   "subhead": "(And Why It Made Me Rethink Everything)",
+   "likes": 27,
+   "date": "2025-05-24"
+  },
+  {
+   "title": "What Happens Next Will Change Your Newsletter Forever",
+   "subhead": "The Secret Sauce Is Now Served: Substackulous Has Left the Waitlist (And Entered Legend)",
+   "likes": 27,
+   "date": "2025-03-18"
+  },
+  {
+   "title": "41,000 Subs, 300 Offer Critiques, 3 Airbnbs—And a Gift for You",
+   "subhead": "How to Build a Paid Offer That Converts Webinar inside",
+   "likes": 27,
+   "date": "2025-02-08"
+  },
+  {
+   "title": "🚀 Give Your Notes a Boost—and Grow",
+   "subhead": "Drop your Notes link below👇",
+   "likes": 27,
+   "date": "2025-01-30"
+  },
+  {
+   "title": "The 2-Minute Note Strategy That 10X'd My Reach",
+   "subhead": "How I turned one article into 200,000+ views (without writing anything new)",
+   "likes": 26,
+   "date": "2025-10-30"
+  },
+  {
+   "title": "why fiction writers stay broke (and how to break that)",
+   "subhead": "How Money Map applies to fiction writers (Yes, Really)",
+   "likes": 26,
+   "date": "2025-10-03"
+  },
+  {
+   "title": "My best-kept secret just made someone $500 from a bathroom stall",
+   "subhead": "",
+   "likes": 26,
+   "date": "2025-09-20"
+  },
+  {
+   "title": "My inbox is getting a bit wild this morning",
+   "subhead": "🚨 LAST CHANCE: 2 spots left in Money Map Bootcamp (multiple people asking for exceptions)",
+   "likes": 26,
+   "date": "2025-05-20"
+  },
+  {
+   "title": "December Growth 📈🎁 Challenge: Your First Brand Deal in 30 Days",
+   "subhead": "Make brands want to work with you",
+   "likes": 26,
+   "date": "2024-11-28"
+  },
+  {
+   "title": "5 Books that will grow your revenue faster than you think",
+   "subhead": "(and how to read them in a fraction of time)",
+   "likes": 26,
+   "date": "2024-10-30"
+  },
+  {
+   "title": "Stop selling monthly",
+   "subhead": "How to unlock yearly paid plans on Substack with one email",
+   "likes": 25,
+   "date": "2025-08-28"
+  },
+  {
+   "title": "Most creators make offers that get ignored. Here's how I don't.",
+   "subhead": "|access now|",
+   "likes": 25,
+   "date": "2025-07-16"
+  },
+  {
+   "title": "Do THIS and you'll never have to rely on selfies again",
+   "subhead": "",
+   "likes": 25,
+   "date": "2025-07-14"
+  },
+  {
+   "title": "2 truths that reveal how to win at creator business in 2025",
+   "subhead": "As witnessed by me",
+   "likes": 25,
+   "date": "2025-06-21"
+  },
+  {
+   "title": "Day 10/30: My 5 Weird Rules for Making Real Money on Substack",
+   "subhead": "(Without Feeling Like a Used Car Salesman)",
+   "likes": 25,
+   "date": "2025-06-10"
+  },
+  {
+   "title": "What Your Favorite TV Show Says About You 📺",
+   "subhead": "",
+   "likes": 25,
+   "date": "2025-03-28"
+  },
+  {
+   "title": "99% of Creators Don’t Use This Feature",
+   "subhead": "And It’s Costing Them Trust",
+   "likes": 25,
+   "date": "2025-01-29"
+  },
+  {
+   "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+   "subhead": "A Personalised Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+   "likes": 24,
+   "date": "2025-07-15"
+  },
+  {
+   "title": "pretty weird, huh?",
+   "subhead": "",
+   "likes": 24,
+   "date": "2025-06-19"
+  },
+  {
+   "title": "What 260 Money Map Members Taught Me About Building Systems",
+   "subhead": "The patterns, mistakes, and breakthroughs from creators who went from €0 to consistent revenue",
+   "likes": 24,
+   "date": "2025-10-28"
+  },
+  {
+   "title": "My Secret Tool That Took Me From 0 to 43K subscribers and 5-figure months",
+   "subhead": "Join the Waitlist now",
+   "likes": 24,
+   "date": "2025-02-24"
+  },
+  {
+   "title": "5 Growth Moves That Took Me From 0 to $15K a month",
+   "subhead": "Free workshop for our members and February Growth Challenge",
+   "likes": 24,
+   "date": "2025-02-18"
+  },
+  {
+   "title": "🔥 7 Social Media Trends for Q4 2024",
+   "subhead": "(and how you can easily get on them)",
+   "likes": 24,
+   "date": "2024-09-17"
+  },
+  {
+   "title": "What My 2-Week-Old CEO Taught Me About Pricing",
+   "subhead": "",
+   "likes": 23,
+   "date": "2025-09-15"
+  },
+  {
+   "title": "Yesterday at the doctor, I realized something",
+   "subhead": "5.5 months pregnant and why I built my newsletter business before I needed it",
+   "likes": 23,
+   "date": "2025-05-30"
+  },
+  {
+   "title": "I wish I had this when I started",
+   "subhead": "(+ final chance to join at 50% off)",
+   "likes": 23,
+   "date": "2025-04-07"
+  },
+  {
+   "title": "Struggling on Substack? This 1 Feature Will Change Everything",
+   "subhead": "🚀 Sneak Peek: The \"Home Run\" Feature Coming to Substackulous on March 18th!",
+   "likes": 23,
+   "date": "2025-03-11"
+  },
+  {
+   "title": "🎯 5 Ways This Challenge Will Change How You Pitch Forever",
+   "subhead": "Week 2 is ON: 50+ Creators Are Crafting Pitches",
+   "likes": 23,
+   "date": "2024-12-11"
+  },
+  {
+   "title": "The Day I Doubled My Prices",
+   "subhead": "(And Why I Almost Didn’t)",
+   "likes": 22,
+   "date": "2025-07-30"
+  },
+  {
+   "title": "Day 11/30: The Content Calendar Trap—Why Planning Everything in Advance Is Killing Your Authentic Voice",
+   "subhead": "(And the Chaos System That Tripled My Engagement)",
+   "likes": 22,
+   "date": "2025-06-11"
+  },
+  {
+   "title": "Behind-the-Scenes: How I Set Up My Paid Membership for Maximum Conversions",
+   "subhead": "(Why My Subscription Works—and What I’d Do Differently If I Started Today)",
+   "likes": 22,
+   "date": "2025-02-10"
+  },
+  {
+   "title": "This rebrand cost Tropicana $55M",
+   "subhead": "and it failed. Until it didn't...",
+   "likes": 22,
+   "date": "2024-11-07"
+  },
+  {
+   "title": "Turn Your Substack Into a Money-Making Machine (Without Feeling Icky About It)",
+   "subhead": "A 3-Day Adventure to Transform Your Newsletter Into the Business You've Always Dreamed Of",
+   "likes": 21,
+   "date": "2025-04-27"
+  },
+  {
+   "title": "Day 2/30 - An Architect Quit His Job to Sell E-Books—And Struck Gold?",
+   "subhead": "Pat Flynn—From Architecture School to Smart Passive Income Empire",
+   "likes": 20,
+   "date": "2025-06-03"
+  },
+  {
+   "title": "Most Newsletters Fail Because the Writers Are Boring (there, I said it)",
+   "subhead": "",
+   "likes": 20,
+   "date": "2025-02-26"
+  },
+  {
+   "title": "🟡 Your Substack “problems” always have an explanation.",
+   "subhead": "And this is how to solve them all",
+   "likes": 20,
+   "date": "2024-10-30"
+  },
+  {
+   "title": "The $37K Mistake I Made Last Summer (And Why Your \"Content Break\" Is Costing You More Than You Think)",
+   "subhead": "The brutal truth about what happens when you disappear for eight weeks",
+   "likes": 19,
+   "date": "2025-07-08"
+  },
+  {
+   "title": "Meet Marcus",
+   "subhead": "",
+   "likes": 19,
+   "date": "2025-06-20"
+  },
+  {
+   "title": "*NEW* Fri-yay #2",
+   "subhead": "",
+   "likes": 19,
+   "date": "2025-05-02"
+  },
+  {
+   "title": "Announcing: The $5K Monetization Bootcamp (By Popular Demand!)",
+   "subhead": "",
+   "likes": 19,
+   "date": "2025-04-22"
+  },
+  {
+   "title": "[redacted] in March: What You Missed & What's Coming 🚀",
+   "subhead": "",
+   "likes": 19,
+   "date": "2025-03-03"
+  },
+  {
+   "title": "On Intentional Stress Challenge. Or, How To Become a Writer",
+   "subhead": "Progressive challenge series focused on developing the skill that is writing. Becoming a writer can offer countless benefits to the practitioner regardless of reason or genre.",
+   "likes": 19,
+   "date": "2024-11-19"
+  },
+  {
+   "title": "My Substack growth strategy is simple but effective.",
+   "subhead": "Read this if you're stuck at 5 to 10 likes per post",
+   "likes": 19,
+   "date": "2024-10-28"
+  },
+  {
+   "title": "How the Top Newsletters Build Massive Growth",
+   "subhead": "The growth lever no one wants to tell you about",
+   "likes": 18,
+   "date": "2024-10-08"
+  },
+  {
+   "title": "Day 1/30: Daniela Amodei—The Safety-First Maverick Who Walked Away from OpenAI",
+   "subhead": "",
+   "likes": 17,
+   "date": "2025-06-02"
+  },
+  {
+   "title": "LVMH didn’t spend €50M on a villa in Cannes because it’s pretty.",
+   "subhead": "They did it because access is the new advertising.",
+   "likes": 16,
+   "date": "2025-04-25"
+  },
+  {
+   "title": "Day 9/30: The Revenue Recognition Reality Check—Why Your Subscriber Count Is a Vanity Metric",
+   "subhead": "(And the 24-Hour Audit That Reveals Your Real Worth)",
+   "likes": 15,
+   "date": "2025-06-09"
+  },
+  {
+   "title": "🔥 10 Mental Models To Change The Way You Think",
+   "subhead": "Shift how you perceive things.",
+   "likes": 15,
+   "date": "2024-10-07"
+  },
+  {
+   "title": "How I Almost Killed My Newsletter Business (And What I’m Doing About It)",
+   "subhead": "[NEW] 3 days x 2-hour newsletter masterclass",
+   "likes": 14,
+   "date": "2025-02-27"
+  },
+  {
+   "title": "🟡 Substack FAQ Collection (With a Dash of Growth)",
+   "subhead": "What do YOU want to know as you grow on the platform?",
+   "likes": 14,
+   "date": "2024-11-25"
+  },
+  {
+   "title": "Stop Chasing Likes: The Simple Formula to Build a Social Media Presence That Actually Matters",
+   "subhead": "(This approach helped me build a community of 22K raving fans who love my brand - in under 6 months)",
+   "likes": 12,
+   "date": "2024-09-07"
+  },
+  {
+   "title": "The questions keep pouring in... (+ a little surprise)",
+   "subhead": "",
+   "likes": 12,
+   "date": "2025-04-02"
+  },
+  {
+   "title": "🥤How Pepsi Turned Halloween into a Viral Marketing Win",
+   "subhead": "When Pepsi dressed up as Coca Cola for Halloween",
+   "likes": 11,
+   "date": "2024-09-26"
+  },
+  {
+   "title": "Why I Think Writing Alone Is Killing Your Creativity",
+   "subhead": "Let’s face it: writing alone is overrated.",
+   "likes": 10,
+   "date": "2024-09-21"
+  },
+  {
+   "title": "Grow Smarter, Not Harder: Actionable Strategies for Your Brand",
+   "subhead": "Growing a Brand from the Ground Up",
+   "likes": 7,
+   "date": "2024-09-05"
+  },
+  {
+   "title": "🔥 If brands had honest taglines",
+   "subhead": "(with visuals)",
+   "likes": 7,
+   "date": "2024-09-05"
+  },
+  {
+   "title": "How to get ready for Q4 Marketing mania",
+   "subhead": "(with examples)",
+   "likes": 5,
+   "date": "2024-09-23"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+  "_note": "Config-lock. Every number, threshold and word list lives here. SKILL.md contains no magic numbers. If a rule needs a number, it comes from this file.",
+  "publication": "",
+  "author": "",
+  "output": {
+    "_note": "Shape name, headline and subheadline. Numbered 1 to 19. Nothing else reaches the page: no move name, no job tag, no opener, no score, no drop note.",
+    "candidates_per_run": 19,
+    "one_per_shape": true,
+    "_one_per_shape_note": "19 shapes in data/templates.json, one candidate each, walked in file order (median engagement, high to low). There is no selection step and no ranking: entry 1 is always the archive's strongest shape, entry 19 always the archive's weakest. A candidate that fails Step 2 is rewritten in its own shape, never dropped, so the run is always exactly 19.",
+    "shown": [
+      "shape",
+      "title",
+      "subhead"
+    ]
+  },
+  "scoring": {
+    "_note": "Filter, never shown.",
+    "visible": false,
+    "max_points": 10,
+    "min_points_to_show": 6,
+    "_bar_note": "Was 8, which passed 5 of the archive's best 50 and 2 of the archive's worst: a wall, not a filter. At 6 it passes 22 of the archive's best against 11 of the archive's worst, a real 2:1 split. Her top 50 score a median of 5.",
+    "hard_fail_checks": [
+      "no_continuation",
+      "no_duplicate_claim",
+      "clean"
+    ],
+    "_hard_fail_note": "names_a_result was removed from this list on 2026-08-16. It fires on 15 of the archive's best 50 AND 15 of the archive's worst: zero power to tell them apart, while hard-failing the archive's 277, the archive's 262 and the archive's 140. It stays as a weighted point. no_continuation earns its place at 9 on the best against 18 on the worst.",
+    "regenerate_attempts": 2
+  },
+  "checks": {
+    "_note": "Six subheadline rules and four TITLE rules. Every threshold traces to data/corpus.json and data/templates.json.",
+    "names_a_result": {
+      "signals": [
+        "$",
+        "subscriber",
+        "follower",
+        "sales",
+        "revenue",
+        "bestseller",
+        "made",
+        "hit",
+        "income",
+        "grow",
+        "month",
+        "week",
+        "day",
+        "client",
+        "paid"
+      ],
+      "evidence": "54% of the archive's best 57 titles name a concrete result, against 28% of the worst. The single strongest title signal in the corpus. A title about a concept instead of an outcome is the failure mode."
+    },
+    "title_figure": {
+      "evidence": "58% of the archive's best titles carry a digit against 47% of the worst. Money 23% vs 12%, time window 14% vs 2%. A bracketed [N] slot does NOT satisfy this: see figure_slot."
+    },
+    "figure_slot": {
+      "_note": "A round number reads as a claim. An odd one reads as a receipt. An empty bracket reads as nothing at all and is a hard fail.",
+      "round_if_bare_suffix": true,
+      "round_max_significant": 1,
+      "ignore_year_range": [
+        1900,
+        2100
+      ],
+      "ignore_patterns": [
+        "\\d+\\s*:\\s*\\d+",
+        "\\b\\d+\\s+in\\s+\\d+\\b"
+      ],
+      "bracket_only_fails": true,
+      "empty_slot_pattern": "\\[[^\\]]*(?<![A-Za-z])[Nn](?![A-Za-z])[^\\]]*\\]",
+      "_slot_note": "Matches [N], [$N], [N days], [odd N]. Deliberately does NOT match a real square bracket with words in it: the archive's own title '[Free Course] Build a 6-figure newsletter' must stay legal.",
+      "evidence": "Her receipts are odd and precise: $247,347, 45,000, 38.9K, 953, $15,000, $1,700, 27 brand deals, 17 paid subs. Round figures ($300K, 100K, 70k, $50) read as claims, not receipts. Threshold verified against every figure in the top 50: max_significant 1 keeps all eight real receipts and correctly demotes the round ones."
+    },
+    "title_bracket": {
+      "evidence": "32% of the archive's best titles end in a parenthetical against 16% of the worst. Permission, the turn, or the condition. Weighted, not required."
+    },
+    "first_person": {
+      "words": [
+        "i",
+        "my",
+        "me"
+      ],
+      "evidence": "46% of the archive's best titles are first person against 33% of the worst. Weighted."
+    },
+    "no_continuation": {
+      "reject_leading": [
+        "(",
+        "and",
+        "but",
+        "or",
+        "so",
+        "plus",
+        "then"
+      ],
+      "evidence": "16% of the best 57, 33% of the worst 57. The only pattern twice as common in weak posts. Strongest inverted signal in the corpus."
+    },
+    "subhead_length": {
+      "min_words": 12,
+      "max_words": 22,
+      "target_min": 15,
+      "evidence": "15 words or longer: 40% of the best, 9% of the worst. Biggest gap in the data. Median 13 words in the best, 9 in the worst."
+    },
+    "two_sentences": {
+      "min_sentences": 2,
+      "evidence": "19% of the best, 9% of the worst. Weighted, not required."
+    },
+    "tension_word": {
+      "words": [
+        "nobody",
+        "never",
+        "without",
+        "wrong",
+        "most",
+        "no one",
+        "stop",
+        "quit",
+        "fail"
+      ],
+      "evidence": "19% of the best, 9% of the worst. Weighted, not required."
+    },
+    "no_duplicate_claim": {
+      "min_word_length": 4,
+      "max_shared_ratio": 0.6,
+      "evidence": "Sharing words is NOT a fault: the worst posts share fewer long words with the title (74%) than the best (61%). Repeat nouns freely. This check only fires on near-total reuse, which means restating rather than repeating."
+    },
+    "clean": {
+      "evidence": "your permanent ban list. Not from the corpus."
+    }
+  },
+  "batch": {
+    "_note": "The whole-run check. Floor catches a set that looks nothing like the archive's. Ceiling catches a set that does ONE thing ten times: ten titles that all name a result, all carry a figure and all run first person read as one headline repeated, which is not what the archive looks like either.",
+    "min_candidates": 5,
+    "ceiling_margin": 25,
+    "opening_words": 2,
+    "max_titles_per_opening": 1,
+    "_opening_note": "Shape variety is not surface variety. Ten different templates still read as one headline when three of them open 'Why I'. Two titles sharing their first two words rejects the run.",
+    "profile": {
+      "names_a_result": [
+        54,
+        28
+      ],
+      "title_figure": [
+        58,
+        47
+      ],
+      "title_bracket": [
+        32,
+        16
+      ],
+      "first_person": [
+        46,
+        33
+      ]
+    },
+    "_profile_note": "[the archive's best 57, the archive's worst 57]. Floor is the worst-57 rate. Ceiling is the archive's best-57 rate plus ceiling_margin, capped at 100. title_figure now counts FILLED figures only, so a run of empty slots can no longer clear it."
+  },
+  "numbers": {
+    "_note": "This is a generator. It never asks your to verify a figure and it never invents one. Where a number belongs, it writes a bracket and moves on.",
+    "invent": false,
+    "placeholder": "[N]"
+  },
+  "banned_words": [
+    "leak",
+    "leaks",
+    "leaking",
+    "leaked"
+  ],
+  "banned_patterns": {
+    "dashes": "[\\u2014\\u2013]",
+    "stacked_negatives": "\\bNo [A-Z][a-z]+\\. No [A-Z][a-z]+\\. No [A-Z][a-z]+\\.",
+    "not_just": "it'?s not just .{1,40}, it'?s",
+    "whether_youre": "whether you'?re .{1,40} or",
+    "in_todays": "in today'?s .{1,30} world"
+  },
+  "_banned_note": "Edit this list to your own bans. It ships with one entry because 'leak' is an AI tell that shows up constantly in generated headlines. Add your own; every entry is a hard fail.",
+  "stopwords": [
+    "the",
+    "and",
+    "for",
+    "with",
+    "that",
+    "this",
+    "from",
+    "your",
+    "you",
+    "was",
+    "were",
+    "are",
+    "but",
+    "not",
+    "all",
+    "any",
+    "how",
+    "why",
+    "what",
+    "when",
+    "who",
+    "into",
+    "than",
+    "then",
+    "them",
+    "they",
+    "have",
+    "has",
+    "had",
+    "will",
+    "would",
+    "can",
+    "could",
+    "just",
+    "about",
+    "after",
+    "before",
+    "over",
+    "under",
+    "more",
+    "most",
+    "some",
+    "such",
+    "only",
+    "own",
+    "same",
+    "too",
+    "very",
+    "one",
+    "two",
+    "out",
+    "off",
+    "its",
+    "it's",
+    "his",
+    "her",
+    "she",
+    "him",
+    "our"
+  ],
+  "paths": {
+    "_skill_root": ".",
+    "formula": "references/formula.md",
+    "corpus": "data/corpus.json",
+    "templates": "data/templates.json",
+    "templates_lite": "data/templates-lite.json"
+  },
+  "_identity_note": "Set publication and author on first run, or leave blank. Neither affects generation."
+}

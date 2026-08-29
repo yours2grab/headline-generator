@@ -1,0 +1,632 @@
+{
+ "_note": "Generation digest of data/templates.json, created 2026-08-18 to cut load time; extended 2026-08-21 to be the ONLY generation read. Same 19 shapes in the same run order (median engagement, high to low), each with its forms and its 2 strongest real examples, plus the formula (verbatim copy of references/formula.md) and the check digest (generated from config.json — config.json stays the authority on every threshold). Read THIS file for generation. Open the full data/templates.json (311 examples) only when a shape's two examples are not enough to model a candidate. Regenerate this file whenever templates.json, references/formula.md or config.json changes.",
+ "corpus": {
+  "titles": 247,
+  "median_likes": 43,
+  "matched_by_a_template": 174,
+  "coverage_pct": 70
+ },
+ "templates": [
+  {
+   "template": "STOPPED DOING",
+   "forms": [
+    "[Odd N] things I stopped doing to [outcome]",
+    "Why I stopped [thing everyone does]",
+    "How I stopped [chasing X] and [got Y] instead"
+   ],
+   "uses": 5,
+   "median_likes": 96,
+   "vs_corpus": 53,
+   "best": 140,
+   "note": "",
+   "examples": [
+    {
+     "title": "Why I stopped trying to be “relatable”",
+     "subhead": "The performance of being a hot mess (and why I hate it)",
+     "likes": 140,
+     "date": "2025-12-11"
+    },
+    {
+     "title": "7 Things I Stopped Doing to Hit $50k/Month",
+     "subhead": "Why you are still at $0 (Unpopular Opinion)",
+     "likes": 128,
+     "date": "2025-11-29"
+    }
+   ]
+  },
+  {
+   "template": "TIME BOUND",
+   "forms": [
+    "[Result] in [odd N] [days/weeks/months]",
+    "How I [result] in just [N] [unit]"
+   ],
+   "uses": 9,
+   "median_likes": 91,
+   "vs_corpus": 48,
+   "best": 483,
+   "note": "",
+   "examples": [
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months (and What They Don’t Tell You About Growth)",
+     "subhead": "",
+     "likes": 483,
+     "date": "2024-11-29"
+    },
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    }
+   ]
+  },
+  {
+   "template": "NOBODY / UNTIL",
+   "forms": [
+    "Nobody [did the thing you wanted]. Until I [small change].",
+    "[Bad state] (Until I Did This)",
+    "Nobody [tells/admits] [the thing]"
+   ],
+   "uses": 11,
+   "median_likes": 62,
+   "vs_corpus": 19,
+   "best": 277,
+   "note": "",
+   "examples": [
+    {
+     "title": "💸 Nobody Subscribed from My Notes (Until I Did This)",
+     "subhead": "How I Turned My Notes Into a Growth Machine Without Burning Out",
+     "likes": 277,
+     "date": "2024-12-30"
+    },
+    {
+     "title": "Nobody Commented on My Posts. Until I Learned to Ask the Right Questions.",
+     "subhead": "I Thought My Readers Didn’t Care—Until I Changed This One Thing.",
+     "likes": 262,
+     "date": "2024-12-13"
+    }
+   ]
+  },
+  {
+   "template": "THE X PLAYBOOK",
+   "forms": [
+    "The [thing] playbook that [odd %] of [group] ignore",
+    "The complete [system] for [outcome]",
+    "The exact [roadmap] I used to [result]"
+   ],
+   "uses": 14,
+   "median_likes": 61,
+   "vs_corpus": 18,
+   "best": 977,
+   "note": "",
+   "examples": [
+    {
+     "title": "My 2hrs/day biz made $247,347 this year (feel free to copy the system)",
+     "subhead": "I want to be transparent about what it actually takes to hit $50k months with a newborn.",
+     "likes": 977,
+     "date": "2025-11-28"
+    },
+    {
+     "title": "[Free Course] Build a 6-figure newsletter without the burnout - your 2026 Blueprint",
+     "subhead": "Substack is not just a platform; it is a correction to the chaos of the internet. Here is how to win.",
+     "likes": 108,
+     "date": "2025-11-25"
+    }
+   ]
+  },
+  {
+   "template": "HOW I DID IT",
+   "forms": [
+    "How I [built/grew/hit] [odd result]",
+    "How I used [thing] to [outcome] in [window]"
+   ],
+   "uses": 11,
+   "median_likes": 60,
+   "vs_corpus": 17,
+   "best": 483,
+   "note": "",
+   "examples": [
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months (and What They Don’t Tell You About Growth)",
+     "subhead": "",
+     "likes": 483,
+     "date": "2024-11-29"
+    },
+    {
+     "title": "💡 How I Turned Notes Into a Subscriber Engine (and How You Can Benefit From It)",
+     "subhead": "",
+     "likes": 226,
+     "date": "2025-01-09"
+    }
+   ]
+  },
+  {
+   "template": "IGNORED BY MOST",
+   "forms": [
+    "The [thing] that [odd %] of [group] ignore",
+    "The problem every [group] faces (but nobody admits)",
+    "What they don't tell you about [thing]"
+   ],
+   "uses": 13,
+   "median_likes": 59,
+   "vs_corpus": 16,
+   "best": 112,
+   "note": "",
+   "examples": [
+    {
+     "title": "The Substack Growth Features That 99% of Writers Ignore",
+     "subhead": "Attract more subscribers, increase engagement, and grow faster (using tools already built into Substack that almost no one is using)",
+     "likes": 112,
+     "date": "2025-02-20"
+    },
+    {
+     "title": "The Substack Monetization Playbook that 99% of writers ignore",
+     "subhead": "How to turn readers into revenue using the features 99% of writers ignore (while working just 2 hours a day)",
+     "likes": 102,
+     "date": "2025-09-25"
+    }
+   ]
+  },
+  {
+   "template": "THE RESET",
+   "forms": [
+    "If I lost it all today, here is exactly how I'd [outcome] in [window]",
+    "If you're [state], read this before it's too late"
+   ],
+   "uses": 4,
+   "median_likes": 58,
+   "vs_corpus": 15,
+   "best": 138,
+   "note": "",
+   "examples": [
+    {
+     "title": "If I lost it all today, here is exactly how I’d make $50k/month ASAP (using Substack).",
+     "subhead": "No audience, no budget, no connections, no hustle. Just a laptop, a newborn, and a system.",
+     "likes": 138,
+     "date": "2025-12-16"
+    },
+    {
+     "title": "If I had to monetize a Substack from scratch in 2025",
+     "subhead": "",
+     "likes": 68,
+     "date": "2025-04-28"
+    }
+   ]
+  },
+  {
+   "template": "PERCENT PROPHECY",
+   "forms": [
+    "[Odd %] of [group] won't [outcome] (unless they do this)",
+    "Why [N in N] [group] will [bad outcome] by [year]",
+    "Most [group] will [bad outcome]"
+   ],
+   "uses": 21,
+   "median_likes": 53,
+   "vs_corpus": 10,
+   "best": 199,
+   "note": "",
+   "examples": [
+    {
+     "title": "99% of Substack Creators Won’t Make It in 2025 (Unless They Do This)",
+     "subhead": "Forget Algorithms: How to Win Big on Social Media in 2025",
+     "likes": 199,
+     "date": "2025-01-17"
+    },
+    {
+     "title": "Substack is changing — and most people will miss the shift",
+     "subhead": "If you’re still building like it’s Q2 2025, you’re already behind.",
+     "likes": 153,
+     "date": "2025-09-08"
+    }
+   ]
+  },
+  {
+   "template": "WHY + CLAIM",
+   "forms": [
+    "Why [group] [do the wrong thing]",
+    "Why [respected thing] [is broken]"
+   ],
+   "uses": 13,
+   "median_likes": 50,
+   "vs_corpus": 7,
+   "best": 140,
+   "note": "",
+   "examples": [
+    {
+     "title": "Why I stopped trying to be “relatable”",
+     "subhead": "The performance of being a hot mess (and why I hate it)",
+     "likes": 140,
+     "date": "2025-12-11"
+    },
+    {
+     "title": "Why 95% of \"Full-Time Creators\" Will Be Back at Day Jobs by 2026",
+     "subhead": "The uncomfortable truth about the creator economy collapse that nobody wants to admit—and the battle-tested strategies that separate survivors from casualties",
+     "likes": 125,
+     "date": "2025-08-03"
+    }
+   ]
+  },
+  {
+   "template": "SUBSCRIBER RECEIPT",
+   "forms": [
+    "[Odd N]K subscribers in [N] months",
+    "How I reached [odd N] [subscribers] in [window]"
+   ],
+   "uses": 14,
+   "median_likes": 49,
+   "vs_corpus": 6,
+   "best": 140,
+   "note": "",
+   "examples": [
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    },
+    {
+     "title": "She landed 17 paid subs & 500 new subscribers in 4 weeks.",
+     "subhead": "This 15 mins daily Substack strategy brings you constantly new subs, paid opportunities, and extra income.",
+     "likes": 102,
+     "date": "2025-06-16"
+    }
+   ]
+  },
+  {
+   "template": "BRACKET CLOSER",
+   "forms": [
+    "[Complete claim] ([permission / the turn / the condition])"
+   ],
+   "uses": 53,
+   "median_likes": 48,
+   "vs_corpus": 5,
+   "best": 977,
+   "note": "A MODIFIER, not a shape. 53 of 247 titles end in one and it carries the single biggest post in the corpus. Bolt it onto any other template rather than spending a slot on it.",
+   "examples": [
+    {
+     "title": "My 2hrs/day biz made $247,347 this year (feel free to copy the system)",
+     "subhead": "I want to be transparent about what it actually takes to hit $50k months with a newborn.",
+     "likes": 977,
+     "date": "2025-11-28"
+    },
+    {
+     "title": "How I Became a Substack Bestseller in 3 Months (and What They Don’t Tell You About Growth)",
+     "subhead": "",
+     "likes": 483,
+     "date": "2024-11-29"
+    }
+   ]
+  },
+  {
+   "template": "HOW TO",
+   "forms": [
+    "How to [outcome] without [the thing they dread]",
+    "How to turn [what they have] into [what they want]"
+   ],
+   "uses": 14,
+   "median_likes": 46,
+   "vs_corpus": 3,
+   "best": 106,
+   "note": "",
+   "examples": [
+    {
+     "title": "How to hit financial freedom so fast it’s almost unfair",
+     "subhead": "Three rules I wish someone had screamed at me when I had nothing. ⭐",
+     "likes": 106,
+     "date": "2026-05-31"
+    },
+    {
+     "title": "Why Nobody’s Engaging With Your Notes (And How to Fix It)",
+     "subhead": "What Nobody Tells You About Growing on Substack",
+     "likes": 84,
+     "date": "2025-01-03"
+    }
+   ]
+  },
+  {
+   "template": "MONEY RECEIPT",
+   "forms": [
+    "My [N hour] business made [$odd figure] this year",
+    "[$Odd figure] from [source] in [window]"
+   ],
+   "uses": 49,
+   "median_likes": 46,
+   "vs_corpus": 3,
+   "best": 977,
+   "note": "49 uses but only +3 on the median. A dollar figure alone does not lift a title. It works when paired with TIME BOUND or STOPPED DOING.",
+   "examples": [
+    {
+     "title": "My 2hrs/day biz made $247,347 this year (feel free to copy the system)",
+     "subhead": "I want to be transparent about what it actually takes to hit $50k months with a newborn.",
+     "likes": 977,
+     "date": "2025-11-28"
+    },
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    }
+   ]
+  },
+  {
+   "template": "DIRECT ADDRESS",
+   "forms": [
+    "Your [thing] is [problem]. Here's [what to do].",
+    "[Odd N] reasons your [thing] isn't [outcome]"
+   ],
+   "uses": 23,
+   "median_likes": 46,
+   "vs_corpus": 3,
+   "best": 671,
+   "note": "",
+   "examples": [
+    {
+     "title": "Can the Right Substack Tags Really Grow Your Audience 10x?",
+     "subhead": "My Secret Substack Tag Strategy That Helped Me Reach 45,000 Subscribers in 6 Months",
+     "likes": 671,
+     "date": "2025-03-12"
+    },
+    {
+     "title": "3 Reasons Why Your Substack Isn't Growing (Yet)",
+     "subhead": "and how to fix it",
+     "likes": 131,
+     "date": "2025-01-15"
+    }
+   ]
+  },
+  {
+   "template": "CLIENT / THIRD PARTY",
+   "forms": [
+    "[He/She] [got odd result] in [short window]"
+   ],
+   "uses": 3,
+   "median_likes": 44,
+   "vs_corpus": 1,
+   "best": 102,
+   "note": "",
+   "examples": [
+    {
+     "title": "She landed 17 paid subs & 500 new subscribers in 4 weeks.",
+     "subhead": "This 15 mins daily Substack strategy brings you constantly new subs, paid opportunities, and extra income.",
+     "likes": 102,
+     "date": "2025-06-16"
+    },
+    {
+     "title": "They Started with 47 Subscribers. Today They Make $50K/Month.",
+     "subhead": "I Found Their Secret.",
+     "likes": 44,
+     "date": "2025-08-30"
+    }
+   ]
+  },
+  {
+   "template": "CONTRARIAN FLIP",
+   "forms": [
+    "Everything you've been taught about [topic] is backwards",
+    "The truth about [thing]",
+    "[Claim] (Unpopular Opinion)"
+   ],
+   "uses": 15,
+   "median_likes": 44,
+   "vs_corpus": 1,
+   "best": 70,
+   "note": "",
+   "examples": [
+    {
+     "title": "Stop Building One Income Stream (Do This Instead)",
+     "subhead": "",
+     "likes": 70,
+     "date": "2025-05-12"
+    },
+    {
+     "title": "Everything you’ve been taught about audience building, content creation, and monetization is backwards — and most creators will never figure it out.",
+     "subhead": "I’m in my 40s and Just Realized I’ve Been Lied to About How to Build a Business",
+     "likes": 61,
+     "date": "2025-11-22"
+    }
+   ]
+  },
+  {
+   "template": "NUMBERED LIST",
+   "forms": [
+    "[Odd N] [things/reasons/systems] that [outcome]",
+    "[Odd N] [mistakes] that cost me [time] and [$N]"
+   ],
+   "uses": 28,
+   "median_likes": 42,
+   "vs_corpus": -1,
+   "best": 140,
+   "note": "28 uses, -1 on the median. The most overused template in the corpus and it does not outperform. Use it when the post genuinely is a list, not as a growth tactic.",
+   "examples": [
+    {
+     "title": "10 Unconventional Systems That Helped Me Hit 38.9K Subscribers in 4 Months",
+     "subhead": "(And Why Most Creators Won’t Do Them)",
+     "likes": 140,
+     "date": "2025-01-23"
+    },
+    {
+     "title": "3 Reasons Why Your Substack Isn't Growing (Yet)",
+     "subhead": "and how to fix it",
+     "likes": 131,
+     "date": "2025-01-15"
+    }
+   ]
+  },
+  {
+   "template": "QUESTION",
+   "forms": [
+    "Can [thing] really [outcome]?"
+   ],
+   "uses": 6,
+   "median_likes": 39,
+   "vs_corpus": -4,
+   "best": 671,
+   "note": "",
+   "examples": [
+    {
+     "title": "Can the Right Substack Tags Really Grow Your Audience 10x?",
+     "subhead": "My Secret Substack Tag Strategy That Helped Me Reach 45,000 Subscribers in 6 Months",
+     "likes": 671,
+     "date": "2025-03-12"
+    },
+    {
+     "title": "The Economy Is Splitting in Two. Which Side Are You On?",
+     "subhead": "And no, this isn’t another “AI is coming for your job” article. It’s worse than that.",
+     "likes": 56,
+     "date": "2026-04-28"
+    }
+   ]
+  },
+  {
+   "template": "PERSONAL CONFESSION",
+   "forms": [
+    "I [failed/quit/almost X]. Here's what changed.",
+    "My biggest [regret/mistake]"
+   ],
+   "uses": 5,
+   "median_likes": 35,
+   "vs_corpus": -8,
+   "best": 42,
+   "note": "",
+   "examples": [
+    {
+     "title": "I quit my boss. Then I became a far worse one.",
+     "subhead": "The trap almost every business owner walks straight into, and how I clawed my way out so the whole thing could finally run without me.",
+     "likes": 42,
+     "date": "2026-06-07"
+    },
+    {
+     "title": "I quit my corporate job to become a professional juggler (Part 1)",
+     "subhead": "That's the story I tell myself when I wake up every morning. It's not entirely true, but it captures the essence of my journey into the world of portfolio careers.",
+     "likes": 36,
+     "date": "2024-09-28"
+    }
+   ]
+  }
+ ],
+ "formula": {
+  "_note": "Verbatim copy of references/formula.md so generation reads one file. The .md file is the source; regenerate this copy if it changes.",
+  "markdown": "# The formula\n\nBuilt from 198 title and subheadline pairs pulled from a public archive, split into the 57 most-liked and the 57 least-liked. Every number below was computed from `data/corpus.json`, which sits in this folder. Read real rows from it before writing. Do not invent an example when a real one exists.\n\n```\nHEADLINE  = [ SHAPE ]\nSUBHEAD   = [ SPECIFIC ] + [ CONSEQUENCE, UNRESOLVED ]\n```\n\n---\n\n## What the data actually supports\n\n| Pattern in the subheadline | Best 57 | Worst 57 | Gap | Verdict |\n|---|---|---|---|---|\n| 15 words or longer | 40% | 9% | +31 | **strongest** |\n| Continues from the title | 16% | 33% | −17 | **strongest, inverted** |\n| Shares no long word with title | 61% | 74% | −13 | **inverted, see below** |\n| Two or more sentences | 19% | 9% | +10 | holds |\n| Carries a tension word | 19% | 9% | +10 | holds |\n| Both pronoun lanes in one line | 7% | 0% | +7 | weak |\n| Switches pronoun lane | 51% | 46% | +5 | weak |\n| Contains a digit | 33% | 30% | +3 | **dead** |\n| Six words or fewer | 16% | 19% | −3 | **dead** |\n\nMedian subheadline length: **13 words** in the best, **9** in the worst.\n\n### The four rules\n\n**1. Write long. 15 words or more.** The single biggest gap in the data, 40% against 9%. Target 12 to 22. Under 12 reads as a caption.\n\n**2. Never continue the title.** No opening bracket, no \"and\", \"but\", \"or\", \"so\", \"then\". The only pattern that appears twice as often in the worst posts as the best. Hard refuse.\n\n**3. Two sentences beat one.** 19% against 9%. The full stop in the middle is where the reader decides to keep going.\n\n**4. Carry a tension word.** nobody, never, without, wrong, most, stop, quit, fail. 19% against 9%.\n\n### Three rules that died\n\nStated plainly because they were in this skill and they were wrong.\n\n**Digits are not a signal.** 33% against 30%. A number in the subheadline does nothing measurable. Use one when the sentence needs it, not because a rule says so.\n\n**Short subheads are not penalised.** 16% against 19%. There is no floor effect. What matters is the ceiling: long wins, short is merely neutral.\n\n**Pronoun lane switching is not a signal.** 51% against 46%. Half of everything switches lanes. Using \"I\" and \"you\" in one line is fine too, 7% against 0%, and the direction favours the best posts.\n\n### The one that reversed\n\n**Sharing words with the title is not a fault.** The worst posts share *fewer* long words with the title, not more, 74% against 61%. Repeating the title's nouns is mildly associated with the *better* posts. Repeat words freely. What must never repeat is the claim.\n\n---\n\n## The subheadline shape\n\n```\nSUBHEAD = [ SPECIFIC ] + [ CONSEQUENCE, UNRESOLVED ]\n```\n\n**Beat one** is countable, dated, named, physical, or a stripped list of what was not there. It earns the right to make the claim.\n\n**Beat two** is what that does to the reader, stated as an outcome, mechanism withheld. Say what changes. Never say how.\n\n**The kill test.** If the subheadline could be the first line of the body, it is a summary and it fails.\n\nReal examples from the corpus, highest engagement first:\n\n```\n977   My 2hrs/day biz made $247,347 this year (feel free to copy the system)\n      I want to be transparent about what it takes to hit $50k months with a newborn.\n\n277   Nobody Subscribed from My Notes (Until I Did This)\n      How I Turned My Notes Into a Growth Machine Without Burning Out\n\n262   Nobody Commented on My Posts. Until I Learned to Ask the Right Questions.\n      I Thought My Readers Didn't Care. Until I Changed This One Thing.\n\n199   99% of Creators Won't Make It in 2025 (Unless They Do This)\n      Forget Algorithms: How to Win Big on Social Media in 2025\n\n153   Substack is changing and most people will miss the shift\n      If you're still building like it's Q2 2025, you're already behind.\n\n140   Why I stopped trying to be \"relatable\"\n      The performance of being a hot mess (and why I hate it)\n```\n\n---\n\n## The headline shapes\n\nTen structures extracted by reading the top-performing titles and naming what repeated. **No control group.** This half is pattern observation, not measurement, and it is weaker evidence than the subheadline half above.\n\n| Shape | Title formula |\n|---|---|\n| Nobody / Until | Nobody [did the thing you wanted]. Until I [small specific change]. |\n| The Receipt | My [N hour] business made [$odd figure] this year (feel free to copy the system) |\n| The Reset | If I lost it all today, here is exactly how I'd get back to [outcome] in [window] |\n| The Subtraction List | [Odd N] things I stopped doing to [reach the outcome] |\n| Institution on Trial | [Respected thing] is the worst [category] ever sold |\n| Deadline Prophecy | Why [odd share] of [group] will be [bad outcome] by [year] |\n| The Hidden Lever | The [thing] playbook that [odd share] of [group] ignore |\n| The Unsee | I can't [ordinary activity] like a normal person anymore |\n| The Tuition Receipt | What I wish I knew before [the thing they are about to do] |\n| The Client Mirror | [He or the source creator] [got odd result] in [short window] |\n\nThe bracket on the end of a title does real work in this corpus and appears in the highest performers: permission `(feel free to copy the system)`, the turn `(Until I Did This)`, the condition `(Unless They Do This)`.\n\n---\n\n## What the source creator does with numbers\n\nMeasured from the top 50 in `data/corpus.json`, and cross-checked against the archive's live archive.\n\n### Where the figure sits\n\n| | count of top 50 |\n|---|---|\n| Title carries a figure | 29 |\n| Subheadline carries one | 17 |\n| Both | 14 |\n| **Neither, anywhere** | **18** |\n\n**36% of the archive's best posts contain no digit at all.** That is not a gap in the data, it is a lane: 277, 262, 140 and the archive's three most recent posts all live in it. When the source creator has no receipt the source creator switches engine rather than reaching for a vaguer number.\n\n### Odd is a receipt, round is a claim\n\n```\n$247,347   45,000   38.9K   953   $15,000   $1,700   27   17\n```\n\nEvery one of these is a figure somebody looked up. `$300K`, `100K`, `70k` and `$50` are round and read as claims instead. The test is not trailing zeros, it is how much survives once the zeros come off: `300` leaves `3`, `1,700` leaves `17`. Her single biggest post carries the single most precise number in the corpus.\n\n### A figure alone does nothing\n\n`MONEY RECEIPT` has 49 uses and sits at **+3** against the archive's median. The lift comes from dividing one number by another:\n\n- `2hrs/day` → `$247,347`\n- `10 systems` → `38.9K subscribers` → `in 4 months`\n- `7 mistakes` → `8 months` and `€50K`\n- `600 subscribers` → `$1,700`\n\nSmall input over large output. One number is a statistic. Two is a claim about leverage.\n\n### The one number the source creator invents\n\n`99% of writers ignore`. `95% of \"Full-Time Creators\"`. The crowd claim is the only figure in the corpus with no ledger behind it, and it is always about other people, never about the archive's own results.\n\n---\n\n## Honest limits\n\nThe engagement figures are likes, comments and restacks. Not opens, not clicks, not sales. The weak bucket contains admin posts that were never going to be liked, so this is correlation with a known confound rather than a controlled test. 198 pairs is a small sample and a 10-point gap on that base is suggestive, not proven.\n"
+ },
+ "write_to_the_checks": {
+  "_note": "What hook.py will hold every candidate and the whole run to. Generated from config.json 2026-08-21 — config.json is the authority; regenerate this digest if it changes. Write the FIRST draft to clear all of this: a rejected first batch is a planning failure.",
+  "scoring": {
+   "checks": 10,
+   "min_points_to_show": 6,
+   "hard_fail_checks": [
+    "no_continuation",
+    "no_duplicate_claim",
+    "clean"
+   ]
+  },
+  "title_checks": {
+   "names_a_result": {
+    "signals": [
+     "$",
+     "subscriber",
+     "follower",
+     "sales",
+     "revenue",
+     "bestseller",
+     "made",
+     "hit",
+     "income",
+     "grow",
+     "month",
+     "week",
+     "day",
+     "client",
+     "paid"
+    ],
+    "note": "a digit in the title also counts as a signal"
+   },
+   "title_figure": "odd/precise figure = receipt and passes; round figure passes but reads as a claim; no figure fails the point; an unfilled [N] slot is a HARD fail via clean",
+   "title_bracket": "a parenthetical of 3+ chars closing the title",
+   "first_person": {
+    "words": [
+     "i",
+     "my",
+     "me"
+    ]
+   }
+  },
+  "subhead_checks": {
+   "no_continuation": {
+    "reject_leading": [
+     "(",
+     "and",
+     "but",
+     "or",
+     "so",
+     "plus",
+     "then"
+    ],
+    "note": "HARD FAIL — subheadline never continues the title"
+   },
+   "subhead_length": {
+    "min_words": 12,
+    "max_words": 22,
+    "target_min": 15
+   },
+   "two_sentences": {
+    "min_sentences": 2
+   },
+   "tension_word": {
+    "words": [
+     "nobody",
+     "never",
+     "without",
+     "wrong",
+     "most",
+     "no one",
+     "stop",
+     "quit",
+     "fail"
+    ]
+   },
+   "no_duplicate_claim": {
+    "max_shared_ratio": 0.6,
+    "min_word_length": 4,
+    "note": "HARD FAIL — repeat the title's nouns freely, never restate its claim"
+   },
+   "clean": "HARD FAIL — no banned words/patterns, no empty [N] slot"
+  },
+  "batch_profile": {
+   "_note": "Whole-run rates: [the archive's best 57, the archive's worst 57]. Floor = worst-57 rate. Ceiling = best-57 rate + ceiling_margin, capped at 100. Plan the digits and openings BEFORE drafting.",
+   "profile": {
+    "names_a_result": [
+     54,
+     28
+    ],
+    "title_figure": [
+     58,
+     47
+    ],
+    "title_bracket": [
+     32,
+     16
+    ],
+    "first_person": [
+     46,
+     33
+    ]
+   },
+   "ceiling_margin": 25,
+   "openings": "no 2 titles may share their first 2 words — 19 entries, 19 distinct openings"
+  },
+  "banned_words": [
+   "leak",
+   "leaks",
+   "leaking",
+   "leaked"
+  ],
+  "banned_patterns": {
+   "dashes": "[\\u2014\\u2013]",
+   "stacked_negatives": "\\bNo [A-Z][a-z]+\\. No [A-Z][a-z]+\\. No [A-Z][a-z]+\\.",
+   "not_just": "it'?s not just .{1,40}, it'?s",
+   "whether_youre": "whether you'?re .{1,40} or",
+   "in_todays": "in today'?s .{1,30} world"
+  }
+ }
+}
