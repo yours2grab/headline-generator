@@ -1,6 +1,9 @@
-# Substack Headlines
+# Headline Generator
 
 Paste a draft. Get nineteen headline and subheadline pairs, one in every shape.
+
+Works on anything you publish: an article, a blog post, a newsletter issue, an email, a
+landing page, a video description.
 
 There is no ranking step and no "here are my three favourites." The nineteen shapes are
 already ordered by median engagement, strongest first. You read down until one lands.
@@ -8,7 +11,7 @@ already ordered by median engagement, strongest first. You read down until one l
 ## Install
 
 ```bash
-git clone https://github.com/yours2grab/substack-headlines.git ~/.claude/skills/substack-headlines
+git clone https://github.com/yours2grab/headline-generator.git ~/.claude/skills/headline-generator
 ```
 
 Then in Claude Code: `hook`, `headlines`, `subject line`, or `what should I call this`.
@@ -32,7 +35,7 @@ CONTRARIAN FLIP · NUMBERED LIST · QUESTION · PERSONAL CONFESSION
 
 ## Where the shapes come from — read this before you trust the order
 
-The nineteen shapes were mined from **one creator's public Substack archive**: 247 titles,
+The nineteen shapes were mined from **one creator's public archive**: 247 published titles,
 198 with subheadlines, median 43 likes. 174 of the 247 matched a shape, so coverage is 70%.
 Every threshold in `config.json` — subheadline length, the figure floor, the batch ceilings —
 was measured off that same archive, comparing its best 57 posts against its worst 57.

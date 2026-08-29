@@ -1,10 +1,10 @@
 ---
-name: substack-headlines
-description: Writes headlines and subheadlines for a Substack post, newsletter issue or email. Paste the text, get nineteen headline and subheadline pairs, one in every shape, from a library of 19 title templates mined from a 247-title public Substack archive. Triggers on: hook, hooks, headline, headlines, title, subhead, subheadline, subject line, give me hooks, headline options, name this post, what should I call this.
+name: headline-generator
+description: Writes headlines and subheadlines for anything you publish: an article, a blog post, a newsletter issue, an email, a landing page. Paste the text, get nineteen pairs, one in every shape, from a library of 19 title templates mined from a 247-title published archive. Triggers on: hook, hooks, headline, headlines, title, subhead, subheadline, subject line, give me hooks, headline options, name this post, what should I call this.
 allowed-tools: Read Grep Glob Bash
 ---
 
-# Substack Headlines
+# Headline Generator
 
 Paste text, get nineteen headline and subheadline pairs, one in every shape. That is the whole tool.
 
